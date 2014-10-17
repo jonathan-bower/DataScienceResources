@@ -10,63 +10,66 @@ Below are the collection of open source resources -- if you have anything to add
 
 
 #Table Of Contents
-1. Data Science - Getting Started  
-  * High-level Theory  
-1. Data Pipeline & Tools  
-  * [Scripting Languages](#scripting-languages)    
+1. [Data Science - Getting Started](data-science---getting-started)   
+  * [Data Science Courses](#data-science-courses)  
+  
+1. [Data Pipeline & Tools](#data-pipeline-&-tools)) 
   * [Python](#python)  
   * [Stats/Engineering Libraries](#statsengineering-libraries)  
   * [Databases/Frameworks](#databasesframeworks)  
   * [Data Acquisition](#data acquisition)  
   * [Processing & EDA](#processing--exploratory-data-analysis)  
-  * [Feature Engineering](#feature-engineering)  
   * [Machine Learning](#machine-learning)  
-  * [Other](#other)  
-  * [Data @ Scale](#data-@-scale)  
+  ** [Feature Engineering](#feature-engineering)  
   * [Data Visualization](#data-visualization)  
-  * [Courses](#courses)  
   * [ipython Notebook Tutorials](#ipython-notebook-tutorials)  
-  * [Data Sources](#data-sources)  
   * [Other Data Processes](other-stuff)  
-1. Career Based Information
+  * [Data Sources](#data-sources)  
+  * [New Data Tools](new-data-tools)  
+
+1. [Career Resources](#career-resources)
   * [Data Science Career Path](#data-science-career-path)    
-  * [Data Science Courses](#data-science-courses)  
   * [Types of Data Scientists](types-of-data-scientists)  
   * [Data Science Applications/Use Cases](data-science-applicationsuse-cases)  
-  * [New Data Tools](new-data-tools)  
   * [Data Science Websites/Books](data-science-webistesbooks)  
   * [Data Science Meetups in the Bay Area](data-science-meetups-in-the-bay-area)  
   * [Data Science Blogs](data-science-blogs)  
   * [Design Blogs](design-blogs)  
   * [Data Science Conferences](data-science-conferences)  
   * [Relevent Business Processes](relevent-business-processes)  
-1. Open-Source Data Science Resources
+
+1. [Open-Source Data Science Resources](#open--source-data-science-resources)
   * [Additional Open Source Content](additional-git-hub-open-source-content)  
 
 
 Section of the data pipeline & resources:
 
-### Theory
+## Data Science Getting Started
 Data Pipeline 
 PlaceHolder for More Content **
 ![alt text](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png=1000x100) - Detailed overview of data pipeline from MachineLearningMastery.com
+[Intro to ipython]()https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks/_edit#entire-books-or-other-large-collections-of-notebooks-on-a-topic) - A curation of Ipython Notebooks great for introductory level to python, programming and comp sic and then data science and other topics.    
 
+### Data Science Courses:
+[Coursera](https://www.coursera.org/specialization/jhudatascience/1) - Data Science Specialization at Coursera - many other courses avialble as well.   
+[Udacity](https://www.udacity.com/courses#!/data-science) - Online MOOCs these are the Data Science related courses      
+[Data Science Bootcamps](http://yet-another-data-blog.blogspot.com/2014/04/data-science-bootcamp-landscape-full.html) - List of all bootcamps currently on the market as of April 5, 2014  
+[Coursera Machine Learning Course](https://www.coursera.org/course/ml)  
+[Edx](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VEANx9TF-tw)
 
+## Data Pipeline & Tools 
 
-###Scripting Languages:
+###Python 
 As I use predominantly python - I will keep this as the language of choice for this repo. I like python as it has applicability to work with other environments and problems outside from data analysis and it has many useful libraries.  There are many other languages that could be useful but are not covered here: Julia, R, Cython, Pig, Scala, Java, etc.
 
-####Python 
 [Python @ Codecademy](http://www.codecademy.com/en/tracks/python) - If you have never used Python, right this way..  
 [The Python Wiki](https://wiki.python.org/moin/FrontPage)  
 [Python for Data Science Tutorial - Kaggle](https://www.kaggle.com/wiki/GettingStartedWithPythonForDataScience) - Stepping into Data Science with Kaggle and installing some libraries   
-There are many resources avaible to learn python elsewhere.  
-[Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) - Just as the name says - some introductory level information and exercises.
 
+[Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) - Just as the name says - some introductory level information and exercises.  
 [Python Data Structures]  
 [Object Oriented Programming]  
-####Version Control
-[Git tutorial](https://try.github.io/levels/1/challenges/1) - Simple tutorial for Git from Github.
+[Git tutorial](https://try.github.io/levels/1/challenges/1) - Git for Version Control.  Simple tutorial for Git from Github.  
 
 ####Stats/Engineering Libraries
 [Pandas](http://pandas.pydata.org/) Pandas for EDA on small to medium sized data sets when you don't want to put the infrastructure for SQL or when it isn't necessary  
@@ -89,9 +92,9 @@ There are many resources avaible to learn python elsewhere.
 [Apache Hive](https://hive.apache.org/) - Uses Hiave Query Language (HQL) - similar to SQL for data at scale.     
 [Hive - cheatsheet](http://hortonworks.com/wp-content/uploads/downloads/2013/08/Hortonworks.CheatSheet.SQLtoHive.pdf)  
 [ElasticSearch](http://www.elasticsearch.org/) - For scalable, fast text search/analysis
-[neo4j](http://www.neo4j.org/) - Leading graph database  
-[redis](http://redis.io/) - Key-value open source data structure server  
-[redshift](http://aws.amazon.com/redshift/) - AWS petabyte-scale data warehouse solution.  
+[Neo4j](http://www.neo4j.org/) - Leading graph database  
+[Redis](http://redis.io/) - Key-value open source data structure server  
+[Redshift](http://aws.amazon.com/redshift/) - AWS petabyte-scale data warehouse solution.  
 [Hadoop - the definitive guide](http://ce.sysu.edu.cn/hope/UploadFiles/Education/2011/10/201110221516245419.pdf) - Hadoop ecosystem.
 [Spark](https://spark.apache.org/) - Lightening fast cluser computing.
 
@@ -106,27 +109,27 @@ There are many resources avaible to learn python elsewhere.
 [SciKit Learn for Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)  
 [Regular Expressions](http://www.zytrax.com/tech/web/regex.htm) - Regex explained.
 
-###Feature Engineering:
-** One of the critical elements of Data Science but also least talked about..  
-[Ipyhon Notebook for Feature engineering](http://nbviewer.ipython.org/urls/raw2.github.com/yhat/DataGotham2013/master/notebooks/7%20-%20Feature%20Engineering.ipynb?create=1)
-[CS Princeton Course](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/18-feat.pdf)    
-[Blog Post about Feature Engineering / Data Exploration](http://deblivingdata.net/machine-learning-tricks/)  
-
 ###Machine Learning:
 There is a lot of information on the internet about the theory, mathematics, tuning, etc for this discipline - I am not trying to cover it in that depth, at least not at this current time.  These are just some high level toolkits to work with.  
 [SciKit-Learn](http://scikit-learn.org/stable/) - Simple and efficient machine learning tools for data mining and data analysis    
 [NLTK](9http://www.nltk.org/) - Natural Language Toolkit to work with human languages data.  
 [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) - Blog Post  
-[Coursera Machine Learning Course](https://www.coursera.org/course/ml)  
-[VIDEO - How to get started w/mL](https://www.youtube.com/watch?v=uBorfxosVYs) - Melanie Warrick @ PyCon 2014
-![alt text](http://nyghtowlblog.files.wordpress.com/2014/04/ml_algorithms.png?w=535&h=311) - Classification for some sample ML algorithms
-[SciKit-image](http://scikit-image.org/) - Algorithms for image processing
+[VIDEO - How to get started w/mL](https://www.youtube.com/watch?v=uBorfxosVYs) - Melanie Warrick @ PyCon 2014  
+[Image](http://nyghtowlblog.files.wordpress.com/2014/04/ml_algorithms.png?w=535&h=311) - Classification for some sample ML algorithms.  
+[SciKit-image](http://scikit-image.org/) - Algorithms for image processing.  
+[Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.  
 
-Model Selection:
+####Model Selection:
 [SciKit Learn Flow Chart for Model Selection](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) - helpful for a starting point selecting SKlearn algorithms.
 
-Model Evaluation:
+####Model Evaluation:
 [Evaluatin ML Algorithms](http://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms/) - Blog Post from MachineLearningMastery
+
+####Feature Engineering:
+** One of the critical elements of Data Science but also least talked about..  
+[Ipyhon Notebook for Feature engineering](http://nbviewer.ipython.org/urls/raw2.github.com/yhat/DataGotham2013/master/notebooks/7%20-%20Feature%20Engineering.ipynb?create=1)
+[CS Princeton Course](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/18-feat.pdf)    
+[Blog Post about Feature Engineering / Data Exploration](http://deblivingdata.net/machine-learning-tricks/)  
 
 ### Other Skills:
 [A/B Testing](http://conversionxl.com/how-to-build-a-strong-ab-testing-plan-that-gets-results/#.) Blog about A/B testing
@@ -141,10 +144,6 @@ Model Evaluation:
 [Basics of Multithreading and queses](http://www.troyfawkes.com/learn-python-multithreading-queues-basics/)  
 [Hash Tables]()
 
-
-###Data @ Scale/Cloud Services:
-[Amazon Web Services](http://aws.amazon.com/) - solid commercial resources for cloud services especially for start-ups.  
-
 ### Data Visualization
 [ggplot](http://ggplot.yhathq.com/) -- ggplot for python ported by the team at yhat  
 [matplotlib](http://matplotlib.org/) -- awesome plotting library for python.  
@@ -156,7 +155,7 @@ Model Evaluation:
 Design Theory -- The importance of design theory in data visualization and presentations could not be understated though many people pay no heed (probably through a lack of understanding than anything else).  I will try and find some good resources to fill this.
 
 
-###Ipython Notebook Tutorials:
+### Ipython Notebook Tutorials:
 [Pandas Tutorial](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb) - Basic intro to Pandas in notebook form.  
 [Scipy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)    
 [Numpy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)  
@@ -174,24 +173,18 @@ Design Theory -- The importance of design theory in data visualization and prese
 [Some Basic Data Analysis in Python](http://nbviewer.ipython.org/github/jvns/talks/blob/master/pyconca2013/pistes-cyclables.ipynb)  
 [Crash Course in Python for Scientists](http://nbviewer.ipython.org/gist/rpmuller/5920182) - Ipython Notebook  
 [Regular Expressions](http://nbviewer.ipython.org/gist/rjweiss/7577022) - Regex to match patterns in strings - very powerful.  
-[MapReduce](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab8/lab8_mapreduce.ipynb) - Classes, inheritance and mapreduce exercises.  
+[MapReduce](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab8/lab8_mapreduce.ipynb) - Classes, inheritance and map-reduce exercises.  
 [Recursion](http://nbviewer.ipython.org/github/gumption/Motivating_and_Visualizing_Recursion_in_Python/blob/master/Motivating_and_Visualizing_Recursion_in_Python.ipynb)  Notebook visualization recursion "The single most powerful idea in algorithms"  
 [Recursion](http://anandology.com/python-practice-book/functional-programming.html) More about Recursion and Functional Programming  
 
 
 ### Data Sources:
-- Will include good data sources to practise.
+- Will include good data sources to practice.
+
+## Career Resources
 
 ### Data Science Career Path:
 - Will find a blog post to discuss career trajectory
-
-
-### Data Science Courses:
-[Coursera](https://www.coursera.org/specialization/jhudatascience/1) - Data Science Specialization at Coursera - many other courses avialble as well.   
-[Udacity](https://www.udacity.com/courses#!/data-science) - Online MOOCs these are the Data Science related courses      
-[Data Science Bootcamps](http://yet-another-data-blog.blogspot.com/2014/04/data-science-bootcamp-landscape-full.html) - List of all bootcamps currently on the market as of April 5, 2014  
-[Coursera Machine Learning Course](https://www.coursera.org/course/ml)  
-[Edx](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VEANx9TF-tw)
 
 ### Types of Data Scientists:
 [Kind's of Data Scientist](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html) - O'reilly's classification of 4 different data scientists.
@@ -225,7 +218,6 @@ A great way to meet other Data Scientist and keep up to date with best practices
 [SF Bayarea Machine Learning](http://www.meetup.com/SF-Bayarea-Machine-Learning/)  
 [AirBnB Tech Talks](http://nerds.airbnb.com/tech-talks/)     
 
-
 ### Data Science Blogs:
 [FastML](http://fastml.com/)  
 [FiveThirtyEight Blog](http://fivethirtyeight.com/) - Nate Silver's blog  
@@ -238,24 +230,25 @@ A great way to meet other Data Scientist and keep up to date with best practices
 ### Design Blogs:
 [ThreeStoryBlog](http://blog.threestory.com/)
 
-
 ### Data Science Conferences:
 [Strata](http://strataconf.com/) - Conference and a TON of old videos from previous conferences - great resource.  
 [GraphLab](http://graphlab.com/events/conference14.html) - Another solid conference.  
 
-
 ### Relevent Business Processes:
-[Lean Startup](http://theleanstartup.com/principles)  
-[Agile Development](http://en.wikipedia.org/wiki/Agile_software_development)  
-[Scrum](http://en.wikipedia.org/wiki/Scrum_(software_development))  
+[Lean Startup](http://theleanstartup.com/principles) - A method to develop product and businesses.
+[Agile Development](http://en.wikipedia.org/wiki/Agile_software_development) - group of software development methods to optimize for self-organizational and cross-functional teams.
+[Scrum](http://en.wikipedia.org/wiki/Scrum_(software_development)) - an interative and incremental agile software development framework for managing product development.  
 
 ### Additional Git Hub Open Source Content:
-[Open Data Science Masters](http://datasciencemasters.org/) - Open Source online blog with lots of resources avialable for data science.  
+[Open Data Science Masters](http://datasciencemasters.org/) - Open Source online blog/github with lots of resources available for data science.  
 [A Practical Intro to Data Science](http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science) - List of excellent resources available  
-[LearnDataScience](https://github.com/nborwankar/LearnDataScience) - IpythonNotebooks for Linear Regression, Logistic Regresison, Random Forests, K-Means Clustering  
+[LearnDataScience](https://github.com/nborwankar/LearnDataScience) - IpythonNotebooks for Linear Regression, Logistic Regression, Random Forests, K-Means Clustering  
 [FreeDataScienceBooks](https://github.com/chaconnewu/free-data-science-books/blob/master/free-data-science-books.md) - Free open sourced online data science books.  
-[Gallery of Ipython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) -- 
+[Gallery of Ipython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) -- Introduction to Python, Data Science, Economics, Comp Sci, Linguistics, and much more.  
 
 ### Other stuff:
 [Markable](http://markable.in/editor/) - Let's me visualize my Markdown 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  - Self explanatory.  
+[LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - Markdown editor that I use  
+[iterm2](http://iterm2.com/) - Terminal application for Mac  
+[Oh My Zsh](http://ohmyz.sh/) - Framework for managing your ZSH config.  Awesome.  
