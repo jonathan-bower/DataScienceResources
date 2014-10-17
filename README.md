@@ -28,7 +28,7 @@ Below are the collection of open source resources -- if you have anything to add
   * [ipython Notebook Tutorials](#ipython-notebook-tutorials)  
   * [Data Sources](#data-sources)  
   * [Other Data Processes](other-stuff)  
- 1. Career Based Information
+1. Career Based Information
   * [Data Science Career Path](#data-science-career-path)    
   * [Data Science Courses](#data-science-courses)  
   * [Types of Data Scientists](types-of-data-scientists)  
@@ -40,7 +40,7 @@ Below are the collection of open source resources -- if you have anything to add
   * [Design Blogs](design-blogs)  
   * [Data Science Conferences](data-science-conferences)  
   * [Relevent Business Processes](relevent-business-processes)  
- 1. Open-Source Data Science Resources
+1. Open-Source Data Science Resources
   * [Additional Open Source Content](additional-git-hub-open-source-content)  
 
 
