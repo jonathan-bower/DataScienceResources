@@ -120,6 +120,7 @@ There is a lot of information available online about the theory, mathematical in
 * [Some ML methods classified](http://nyghtowlblog.files.wordpress.com/2014/04/ml_algorithms.png?w=535&h=311) - Classification for some sample ML algorithms.  
 * [SciKit-image](http://scikit-image.org/) - Algorithms for image processing.  
 * [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.  
+* [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes. 
 
 ####Model Selection
 Resources about how to decide on your model.
