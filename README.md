@@ -2,7 +2,7 @@
 
 This repo is intended to provide free and available resources from the internet to either aid in learning or point practicing/aspiring Data Scientists in the right direction.  Mostly it exists so that I can keep track of resources that were helpful to me at a given time.  
 
-I aim to include topics of data science that aren't either actively covered or overly talked about. I don't delve deeply into any of the theory, for that I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content) and [here](#data-science-courses). 
+I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easily to find in the open-source world of the internet. I haven't focused on theory, for that I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content) and [here](#data-science-courses). 
 
 Below are the collection of open source resources I have collected so far. It is a constant work in progress. If you have anything to add or want to be a contributor - please reach out.    
 
@@ -237,7 +237,7 @@ The name say's it all.
 * [Zipfian Data Science Blog](http://www.zipfianacademy.com/blog/)  
 * [Machine Learning Mastery](http://machinelearningmastery.com/) 
 * [DataTau](http://datatau.com) - Hackernews for Data Science
-* [HackerNews](http://hackernews.com) 
+* [HackerNews](https://news.ycombinator.com/) 
 * [Quora](http://quora.com) - Q&A site with lots of information about Data Science.
 
 ### Design Blogs
