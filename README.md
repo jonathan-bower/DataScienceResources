@@ -2,7 +2,7 @@
 
 This repo is intended to provide free and available resources from the internet to either aid in learning or point practicing/aspiring Data Scientists in the right direction.  Mostly it exists so that I can keep track of resources that were helpful to me at a given time.  
 
-I aim to include topics of data science that aren't either actively covered or overly talked about. I don't delve deeply into any of the theory, for that I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#additional-git-hub-open-source-content) and [here](#data-science-courses). 
+I aim to include topics of data science that aren't either actively covered or overly talked about. I don't delve deeply into any of the theory, for that I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content) and [here](#data-science-courses). 
 
 Below are the collection of open source resources I have collected so far. It is a constant work in progress. If you have anything to add or want to be a contributor - please reach out.    
 
@@ -30,15 +30,15 @@ Lastly, I would add that a large portion of Data Science is exploratory data ana
   * [Data Science Career Path](#data-science-career-path)    
   * [Types of Data Scientists](#types-of-data-scientists)  
   * [Data Science Applications/Use Cases](#data-science-applicationsuse-cases)  
-  * [Data Science Websites/Books](#data-science-webistesbooks)  
+  * [Data Science Websites/Books](#data-science-websitesbooks)  
   * [Data Science Meetups in the Bay Area](#data-science-meetups-in-the-bay-area)  
   * [Data Science Blogs](#data-science-blogs)  
   * [Design Blogs](#design-blogs)  
   * [Data Science Conferences](#data-science-conferences)  
-  * [Relevent Business Processes](#relevent-business-processes)  
+  * [Relevant Business Processes](#relevent-business-processes)  
 
-1. [Open-Source Data Science Resources](#open--source-data-science-resources)
-  * [Additional Open Source Content](#additional-git-hub-open-source-content)  
+1. [Open Source Data Science Resources](#open-source-data-science-resources)
+  * [Additional Open Source Content](#other-open-source-data-science-content)  
 
 
 Section of the data pipeline & resources:
@@ -251,7 +251,11 @@ The name say's it all.
 * [Agile Development](http://en.wikipedia.org/wiki/Agile_software_development) - group of software development methods to optimize for self-organizational and cross-functional teams.
 * [Scrum](http://en.wikipedia.org/wiki/Scrum_(software_development)) - an interative and incremental agile software development framework for managing product development.  
 
-### Additional Git Hub Open Source Content
+##Open Source Data Science Resources
+While the name might sound redundant this section represents other sites or repos that have aggregated information as well.
+
+### Other Open Source Data Science Content
+There are some really great resources linked within this section covering all of Data Science, the entire data pipeline, machine-learning, statistics, python, etc.  Go check them out.
 * [Open Data Science Masters](http://datasciencemasters.org/) - Open Source online blog/github with lots of resources available for data science.  
 * [A Practical Intro to Data Science](http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science) - List of excellent resources available  
 * [LearnDataScience](https://github.com/nborwankar/LearnDataScience) - IpythonNotebooks for Linear Regression, Logistic Regression, Random Forests, K-Means Clustering  
