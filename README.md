@@ -274,6 +274,4 @@ There are some really great resources linked within this section covering all of
 
 ## ABOUT ME
 
-I acquired my skills through programming in an on-the-job environment and then taking three months off to learn and put into practice my data science skills @ Zipfian Academy.  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment was irreplaceable.  Even if Zipfian resources were open source (which they aren't) without taking the time off work and having the drive to push through all that material would be next to impossible. 
-
-Follow me on Twitter [@sf_oak](http://bit.ly/1FefepA) or reach out on [LinkedIn](http://linkd.in/1vp57dk)
+I acquired my skills through programming in an on-the-job environment and then taking three months off to learn and put into practice my data science skills @ Zipfian Academy.  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment at Zipfian was irreplaceable.  Even if Zipfian resources were open source, without taking the time off work and having the drive to learn all the necessary material would be next to impossible.  I am always interested to hear what other data scientists are doing and using for tools. I am interested in a wide range of different open source &/or private projects - feel free to reach out on Twitter [@sf_oak](http://bit.ly/1FefepA) or [LinkedIn](http://linkd.in/1vp57dk).
