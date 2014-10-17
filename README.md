@@ -2,21 +2,21 @@
 
 This repo is intended to provide free and available resources from the internet to either aid in learning or point practicing/aspiring Data Scientists in the right direction.  Mostly it exists so that I can keep track of resources that were helpful to me at a given time.  
 
-I aim to include topics of data science that aren't either actively covered or overly talked about. I don't delve deeply into any of the theory, for that I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](additional-git-hub-open-source-content) and [here](#data-science-courses). 
+I aim to include topics of data science that aren't either actively covered or overly talked about. I don't delve deeply into any of the theory, for that I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#additional-git-hub-open-source-content) and [here](#data-science-courses). 
 
 Below are the collection of open source resources I have collected so far. It is a constant work in progress. If you have anything to add or want to be a contributor - please reach out.    
 
 Lastly, I would add that a large portion of Data Science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - so if one method isn't working re-evaluate and try another.  Good luck and I hope this repo helps!
 
 #Table Of Contents
-1. [Data Science Getting Started](data-science-getting-started)   
+1. [Data Science Getting Started](#data-science-getting-started)   
   * [Data Science Courses](#data-science-courses)  
   
-1. [Data Pipeline & Tools](#data-pipeline-&-tools)) 
+1. [Data Pipeline & Tools](#data-pipeline--tools) 
   * [Python](#python)  
   * [Stats/Engineering Libraries](#statsengineering-libraries)  
   * [Databases/Frameworks](#databasesframeworks)  
-  * [Data Acquisition](#data acquisition)  
+  * [Data Acquisition](#data-acquisition)  
   * [Processing & EDA](#processing--exploratory-data-analysis)  
   * [Machine Learning](#machine-learning)  
   ** [Feature Engineering](#feature-engineering)  
@@ -24,21 +24,21 @@ Lastly, I would add that a large portion of Data Science is exploratory data ana
   * [ipython Notebook Tutorials](#ipython-notebook-tutorials)  
   * [Additional Tools or Processes](#additional-tools-or-processes)  
   * [Data Sources](#data-sources)  
-  * [New Data Tools](new-data-tools)  
+  * [New Data Tools](#new-data-tools)  
 
 1. [Career Resources](#career-resources)
   * [Data Science Career Path](#data-science-career-path)    
-  * [Types of Data Scientists](types-of-data-scientists)  
-  * [Data Science Applications/Use Cases](data-science-applicationsuse-cases)  
-  * [Data Science Websites/Books](data-science-webistesbooks)  
-  * [Data Science Meetups in the Bay Area](data-science-meetups-in-the-bay-area)  
-  * [Data Science Blogs](data-science-blogs)  
-  * [Design Blogs](design-blogs)  
-  * [Data Science Conferences](data-science-conferences)  
-  * [Relevent Business Processes](relevent-business-processes)  
+  * [Types of Data Scientists](#types-of-data-scientists)  
+  * [Data Science Applications/Use Cases](#data-science-applicationsuse-cases)  
+  * [Data Science Websites/Books](#data-science-webistesbooks)  
+  * [Data Science Meetups in the Bay Area](#data-science-meetups-in-the-bay-area)  
+  * [Data Science Blogs](#data-science-blogs)  
+  * [Design Blogs](#design-blogs)  
+  * [Data Science Conferences](#data-science-conferences)  
+  * [Relevent Business Processes](#relevent-business-processes)  
 
 1. [Open-Source Data Science Resources](#open--source-data-science-resources)
-  * [Additional Open Source Content](additional-git-hub-open-source-content)  
+  * [Additional Open Source Content](#additional-git-hub-open-source-content)  
 
 
 Section of the data pipeline & resources:
