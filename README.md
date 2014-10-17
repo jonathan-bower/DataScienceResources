@@ -272,7 +272,7 @@ There are some really great resources linked within this section covering all of
 
 
 
-# ABOUT ME
+## ABOUT ME
 
 I acquired my skills through programming in an on-the-job environment and then taking three months off to learn and put into practice my data science skills @ Zipfian Academy.  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment was irreplaceable.  Even if Zipfian resources were open source (which they aren't) without taking the time off work and having the drive to push through all that material would be next to impossible. 
 
