@@ -40,6 +40,7 @@ Lastly, I would add that a large portion of Data Science is exploratory data ana
 1. [Open Source Data Science Resources](#open-source-data-science-resources)
   * [Additional Open Source Content](#other-open-source-data-science-content)  
 
+1. [About Me](#about-me)
 
 Section of the data pipeline & resources:
 
@@ -270,7 +271,8 @@ There are some really great resources linked within this section covering all of
 * [Oh My Zsh](http://ohmyz.sh/) - Framework for managing your ZSH config.  Awesome.  
 
 
-ABOUT ME
+
+# ABOUT ME
 
 I acquired my skills through programming in an on-the-job environment and then taking three months off to learn and put into practice my data science skills @ Zipfian Academy.  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment was irreplaceable.  Even if Zipfian resources were open source (which they aren't) without taking the time off work and having the drive to push through all that material would be next to impossible. 
 
