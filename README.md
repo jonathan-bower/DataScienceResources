@@ -15,19 +15,19 @@ That being said - here is the collection of open source resources -- if you have
 
 #Table Of Contents
 **update table of contents  
-1.  [Scripting Languages](#Scripting-Languages)    
- * [Python](#Python)  
- * [Stats/Engineering Libraries](#Stats/Engineering-Libraries)  
- * [Databases/Frameworks](#Databases/Frameworks)  
- * [Data Acquisition](#Data-Acquisition)  
- * [Processing & EDA](#Processing-&-Exploratory-Data-Analysis)
- * [Feature Engineering](#Feature-Engineering)
- * [Machine Learning](#Machine-Learning)
- * [Other](#Other)
- * [Data @ Scale](#Data-@-Scale)
- * [Data Visualization](#Data-Visualization)
- * [Courses](#Courses)
- * [ipython Notebook Tutorials](#ipython-Notebook-Tutorials)
+1.  [Scripting Languages](#scripting-languages)    
+ * [Python](#python)  
+ * [Stats/Engineering Libraries](#statsengineering-libraries)  
+ * [Databases/Frameworks](#databasesframeworks)  
+ * [Data Acquisition](#data acquisition)  
+ * [Processing & EDA](#processing--exploratory-data-analysis)
+ * [Feature Engineering](#feature-engineering)
+ * [Machine Learning](#machine-learning)
+ * [Other](#other)
+ * [Data @ Scale](#data-@-scale)
+ * [Data Visualization](#data-visualization)
+ * [Courses](#courses)
+ * [ipython Notebook Tutorials](#ipython-notebook-tutorials)
  * [Data Sources](#data-sources)
 
 Section of the data pipeline & resources:
