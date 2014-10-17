@@ -1,41 +1,55 @@
 ##Data Science Resources
 
-This repo is here to provide some free and available resources from the internet.  It is intended to be an aid to practicing and/or aspiring Data Scientists.  Mostly it is a repo so that I can keep track of resources that were helpful to me at a given time along this journey of acquiring new skills.  It doesn't delve deeply into any of the theory - for that I would look to some of the online courses, books or bootcamps.    
+This is intended to provide free and available resources from the internet to either learn or point practicing or aspiring Data Scientists in the right direction.  Mostly it exists so that I can keep track of resources that were helpful to me at a given time.  It doesn't delve deeply into any of the theory - for that I would look to some of the online courses, books or bootcamps.    
 
-The original plan is to break down resources in terms of skills necessary in each element of the data pipeline (Acquistion-Cleaning/Preprocessing-Modeling-Validation/Evaluation-Visualization).  
-
-I figure it also makes sense to have some articles to provide some context and/or thought about elements of data science that haven't been overly talked about (use cases, career trajectories, feature engineering, product & data science, etc.).
-
-I will include some links to other relevant topcis - such as a design/data visualization / aggregation sites for data science resources as I recognize that I am certainly not the only person doing this and there are a lot of good resources currently available. 
+I figure it also makes sense to have some articles to provide some context and/or thought about elements of data science that haven't been overly talked about (use cases, career trajectories, feature engineering, product & data science, etc.).  This site is not unique in its goal and gladly points anyone to some of the other open source Data Science resources (linked below).
 
 Personally, I acquired my skills through programming in an on-the-job environment and then taking three months off to learn and put into practice my data science skills @ Zipfian Academy.  For me taking that time off to learn, run the daily sprints, and be in a collective learning environment was irreplaceable.  Even if Zipfian resources were open source (which they aren't) taking the time off work and having the drive to push through all that material would be next to impossible. 
 
-That being said - here is the collection of open source resources -- if you have anything to add or want to be a contributor - let me know.  I have taken the liberty to link to people's blogs - if anyone has any issues with that please let me know.  
+Below are the collection of open source resources -- if you have anything to add or want to be a contributor - please reach out.  I have taken the liberty to link to people's blogs - if anyone has any issues with that please let me know.  
 
 
 #Table Of Contents
-**update table of contents  
-1.  [Scripting Languages](#scripting-languages)    
- * [Python](#python)  
- * [Stats/Engineering Libraries](#statsengineering-libraries)  
- * [Databases/Frameworks](#databasesframeworks)  
- * [Data Acquisition](#data acquisition)  
- * [Processing & EDA](#processing--exploratory-data-analysis)
- * [Feature Engineering](#feature-engineering)
- * [Machine Learning](#machine-learning)
- * [Other](#other)
- * [Data @ Scale](#data-@-scale)
- * [Data Visualization](#data-visualization)
- * [Courses](#courses)
- * [ipython Notebook Tutorials](#ipython-notebook-tutorials)
- * [Data Sources](#data-sources)
+1. Data Science - Getting Started  
+  * High-level Theory  
+1. Data Pipeline & Tools  
+  * [Scripting Languages](#scripting-languages)    
+  * [Python](#python)  
+  * [Stats/Engineering Libraries](#statsengineering-libraries)  
+  * [Databases/Frameworks](#databasesframeworks)  
+  * [Data Acquisition](#data acquisition)  
+  * [Processing & EDA](#processing--exploratory-data-analysis)  
+  * [Feature Engineering](#feature-engineering)  
+  * [Machine Learning](#machine-learning)  
+  * [Other](#other)  
+  * [Data @ Scale](#data-@-scale)  
+  * [Data Visualization](#data-visualization)  
+  * [Courses](#courses)  
+  * [ipython Notebook Tutorials](#ipython-notebook-tutorials)  
+  * [Data Sources](#data-sources)  
+  * [Other Data Processes](other-stuff)  
+ 1. Career Based Information
+  * [Data Science Career Path](#data-science-career-path)    
+  * [Data Science Courses](#data-science-courses)  
+  * [Types of Data Scientists](types-of-data-scientists)  
+  * [Data Science Applications/Use Cases](data-science-applicationsuse-cases)  
+  * [New Data Tools](new-data-tools)  
+  * [Data Science Websites/Books](data-science-webistesbooks)  
+  * [Data Science Meetups in the Bay Area](data-science-meetups-in-the-bay-area)  
+  * [Data Science Blogs](data-science-blogs)  
+  * [Design Blogs](design-blogs)  
+  * [Data Science Conferences](data-science-conferences)  
+  * [Relevent Business Processes](relevent-business-processes)  
+ 1. Open-Source Data Science Resources
+  * [Additional Open Source Content](additional-git-hub-open-source-content)  
+
 
 Section of the data pipeline & resources:
 
 ### Theory
 Data Pipeline 
 PlaceHolder for More Content **
-![alt text](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png) - Detailed overview of data pipeline from MachineLearningMastery.com
+![alt text](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png=1000x100) - Detailed overview of data pipeline from MachineLearningMastery.com
 
 
 
