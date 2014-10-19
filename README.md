@@ -35,6 +35,7 @@ Lastly, I would add that a large portion of Data Science is exploratory data ana
   * [Data Science Blogs](#data-science-blogs)  
   * [Design Blogs](#design-blogs)  
   * [Data Science Conferences](#data-science-conferences)  
+  * [Data Science Presentations](#data-science-presentations)
   * [Relevant Business Processes](#relevent-business-processes)  
 
 1. [Open Source Data Science Resources](#open-source-data-science-resources)
@@ -61,7 +62,7 @@ Data Pipeline
 ## Data Pipeline & Tools 
 
 ###Python 
-Python is my workhorse language specifically as it has many data science and statistic libraries and the ability to work in production environments and problems outside of data science.  There are many other languages that could be useful but are not covered here: Julia, R, Cython, Pig, Scala, Java, etc.
+Python is my workhorse language specifically as it has many data science and statistic library, the ability to work in production environments, and work on other problems outside of data science.  There are many other languages that could be useful but are not covered here: Julia, R, Cython, Pig, Scala, Java, etc.
 
 * [Python @ Codecademy](http://www.codecademy.com/en/tracks/python) - If you have never used Python, right this way..  
 * [The Python Wiki](https://wiki.python.org/moin/FrontPage) - Good resource with lots of info about Python  
@@ -80,13 +81,13 @@ A collection of workhorse libraries that are elemental for any python data scien
 * [Probalistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Github Repo all about the namesake.  
 
 ####Data Acquisition
-Libraries that are very helpful for abstracting away some of the complications of scraping or working with HTTP.  
+Libraries that are very helpful for abstracting away some of the complications of scraping or working with HTTP.   
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - a python library to make web-scraping HTML easier  
 * [Beautiful Soup Cheat Sheet](http://youkilljohnny.blogspot.com/2014/03/beautifulsoup-cheat-sheet-parse-html-by.html)  
 * [Requests](http://docs.python-requests.org/en/latest/) - HTTP for Humans - python library that makes working with http and api's more effortless  
 
 ####Processing & Exploratory Data Analysis
-A collection of documents explaining some of the ways to do processing & EDA.
+A collection of documents explaining some of the ways to do processing & EDA.  
 * [Unix for Processing](http://www.theunixschool.com/p/awk-sed.html) - sed & awk for data processing  
 * [Pandas](http://pandas.pydata.org/) - Already mentioned is great for data processing - cleaning, filtering and getting rid of nan's, normalizing, scaling, replacing values, etc  
 * [SciKit Learn for Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing) - Docstring on sklearn's preprocessing methods.  
@@ -112,7 +113,7 @@ A collection of databases & frameworks that are helpful for data management and 
 * [Spark](https://spark.apache.org/) - Lightening fast cluster computing.
 
 ###Machine Learning
-There is a lot of information available online about the theory, mathematical intuition, tuning for this discipline.  I am not trying to cover it in that depth, at least not at this current time.  These are some high level knowledge posts and toolkits.  
+There is a lot of information available online about the theory, mathematical intuition, tuning for this discipline.  I am not trying to cover it in that depth, at least not at this current time.  These are some high level knowledge posts and toolkits.    
 * [SciKit-Learn](http://scikit-learn.org/stable/) - Simple and efficient machine learning tools for data mining and data analysis    
 * [NLTK](http://www.nltk.org/) - Natural Language Toolkit to work with human languages data.  
 * [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) - Blog post about some of the high level ML methods
@@ -123,21 +124,21 @@ There is a lot of information available online about the theory, mathematical in
 * [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes. 
 
 ####Model Selection
-Resources about how to decide on your model.
+Resources about how to decide on your model.  
 * [SciKit Learn Flow Chart for Model Selection](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) - A helpful for a starting point selecting SKlearn algorithms.
 
 ####Model Evaluation
-Resources to help with understanding model evaluation.
+Resources to help with understanding model evaluation.  
 * [Evaluating ML Algorithms](http://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms/) - Blog Post from MachineLearningMastery about how to evaluate your performance.
 
 ####Feature Engineering
-A critical element of Data Science to improve your performance but minimally talked about. 
+A critical element of Data Science to improve your performance but minimally talked about.   
 * [Ipython Notebook for Feature engineering](http://nbviewer.ipython.org/urls/raw2.github.com/yhat/DataGotham2013/master/notebooks/7%20-%20Feature%20Engineering.ipynb?create=1) - Some discussion about Feature Engineering
 * [CS Princeton Course](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/18-feat.pdf) - Course content on Feature Engineering.  
 * [Blog Post about Feature Engineering / Data Exploration](http://deblivingdata.net/machine-learning-tricks/) - Blog post about topic.   
 
 ### Additional Tools or Processes
-Resources on other topics that are very helpful for data scientists and product.
+Resources on other topics that are very helpful for data scientists and product.  
 * [A/B Testing](http://conversionxl.com/how-to-build-a-strong-ab-testing-plan-that-gets-results/#.) - Blog about A/B testing
 * [A/B Testing](http://unbounce.com/a-b-testing/5-ways-youre-screwing-up-your-a-b-testing/) - And how you are screwing it up.  
 * [Bloom Filters](http://nbviewer.ipython.org/github/ctb/2013-pycon-awesome-big-data-algorithms/blob/master/04-bloom-filters.ipynb)  - Python notebook about bloom filters
@@ -186,7 +187,15 @@ The importance of design theory in data visualization and presentations could no
 * [Recursion](http://anandology.com/python-practice-book/functional-programming.html) More about Recursion and Functional Programming  
 
 ### Data Sources
-* [PLACE HOLDER]
+Collection of sites to access data if you want to build out a project or just use some of the tools for EDA.  
+* [Data.Gov](https://www.data.gov/) - The US government portal to open data.  
+* [California Water Resrouces](http://www.water.ca.gov/data_home.cfm) - California's water resource data.
+* [Data for Cool DS projects](http://101.datascience.community/2014/10/17/data-sources-for-cool-data-science-projects-part-1-guest-post/)
+* [Academic Torrents](http://academictorrents.com/) - Sharing Data is hard, torrents make it easier for acadmics.  
+* [Data Basin](http://databasin.org/) - Science based mapping and analytics platform.
+* [Open Energy Data Initiative](http://en.openei.org/wiki/Main_Page) - Over 800 data sets covering energy issues.   
+* [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html) - Data for machine learning - lots of labeled data and description of the problem types.   
+
 
 ## Career Resources
 
@@ -195,7 +204,7 @@ The importance of design theory in data visualization and presentations could no
 
 ### Types of Data Scientists
 * [Kind's of Data Scientist](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html) - O'reilly's classification of 4 different data scientists.
-* [Data Science For Startups](http://tomtunguz.com/data-science-types/) Which of the Five Types of DS does your startup need?  Different classification from O'reilly.
+* [Data Science For Startups](http://tomtunguz.com/data-science-types/) - Which of the Five Types of DS does your startup need?  Different classification from O'Reilly.
 * [My own blog post about DS Types][PLACEHOLDER]
 * [Post about types of data team integration][PLACEHOLDER]
 
@@ -247,6 +256,9 @@ The name say's it all.
 ### Data Science Conferences
 * [Strata](http://strataconf.com/) - Conference and a TON of old videos from previous conferences - great resource.  
 * [GraphLab](http://graphlab.com/events/conference14.html) - Another solid conference.  
+
+### Data Science Presentations
+* [Strata Collection of Presentations](http://strataconf.com/strata2014/public/schedule/proceedings) - Most of their conference presentations available online.
 
 ### Relevent Business Processes
 * [Lean Startup](http://theleanstartup.com/principles) - A method to develop product and businesses.
