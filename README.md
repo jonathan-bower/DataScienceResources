@@ -6,7 +6,7 @@ I aim to cover the full spectrum of data science and to hopefully include topics
 
 Keep in mind that this is a constant work in progress. If you have anything to add, any feedback, or would like to be a contributor - please reach out.  If there are any mistakes or typos, be patient with me, but please let me know.      
 
-Lastly, I would add that a large portion of data science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - if one method isn't working re-evaluate, re-work the problem, try another approach and/or reach out to the community for support.  Good luck and I hope this repo is helpful!
+Lastly, I would add that a large portion of data science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - if one method isn't working re-evaluate, re-work the problem, try another approach and/or reach out to the community for support.  Good luck and I hope this repo helpful!
 
 #Table Of Contents
 1. [Data Science Getting Started](#data-science-getting-started)   
