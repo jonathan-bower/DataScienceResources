@@ -1,6 +1,3 @@
-
-[![Analytics](https://ga-beacon.appspot.com/UA-50532302-5/jonathan-bower/DataScienceResources)](https://github.com/igrigorik/ga-beacon)
-
 ##Data Science Resources
 
 This repo is intended to provide open source resources to facilitate learning or point practicing/aspiring data scientists in the right direction.  Truth be told it exists so that I can keep track of resources that were helpful to me at a given time.  
@@ -319,3 +316,13 @@ There are some really great resources linked within this section covering all of
 ## ABOUT ME
 
 I acquired my skills through programming in an on-the-job environment and then taking three months off to learn and put into practice my data science skills @ Zipfian Academy.  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment at Zipfian was irreplaceable.  Even if Zipfian resources were open source, without taking the time off work and having the drive to learn all the necessary material would be next to impossible.  I am always interested to hear what other data scientists are doing and using for tools. I am interested in a wide range of different open source &/or private projects - feel free to reach out on Twitter [@sf_oak](http://bit.ly/1FefepA) or [LinkedIn](http://linkd.in/1vp57dk).
+
+
+
+
+
+
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-50532302-5/jonathan-bower/DataScienceResources)](https://github.com/igrigorik/ga-beacon)
+
