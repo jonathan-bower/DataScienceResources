@@ -1,12 +1,12 @@
 ##Data Science Resources
 
-This repo is intended to provide open source resources to facilitate learning or point practicing/aspiring data scientists in the right direction.  Truth be told it exists so that I can keep track of resources that were helpful to me at a given time.  
+This repo is intended to provide open source resources to facilitate learning or point practicing/aspiring data scientists in the right direction.  It also exists so that I can keep track of resources that are/were helpful to me and hopefully for you.  
 
-I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easy to find in the open-source world. I haven't focused on in-depth machine learning theory since that is well covered.  If you are looking for ML theory I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content), [here](#data-science-courses) and other info is available with many purchasable books. 
+I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easy to find in the open-source world. For instance, I haven't focused on in-depth machine learning theory since that is well covered.  If you are looking for ML theory I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content), [here](#data-science-courses) and other info is available with many purchasable books. 
 
-This is a constant work in progress. If you have anything to add, any feedback, or would like to be a contributor - please reach out.  If there are any mistakes or typos, be patient with me, but please let me know.      
+Keep in mind that this is a constant work in progress. If you have anything to add, any feedback, or would like to be a contributor - please reach out.  If there are any mistakes or typos, be patient with me, but please let me know.      
 
-Lastly, I would add that a large portion of data science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - so if one method isn't working re-evaluate, re-work the problem, try another approach or reach out to the community for support.  Good luck and I hope this repo is helpful!
+Lastly, I would add that a large portion of data science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - if one method isn't working re-evaluate, re-work the problem, try another approach and/or reach out to the community for support.  Good luck and I hope this repo is helpful!
 
 #Table Of Contents
 1. [Data Science Getting Started](#data-science-getting-started)   
@@ -52,7 +52,7 @@ Lastly, I would add that a large portion of data science is exploratory data ana
 Section of the data pipeline & resources:
 
 ## Data Science Getting Started
-Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning.  These topics are covered throughout this repo.  I find the best way to learn a topic is to get my hands dirty quickly -- with that in mind I would probably get to work in python and then implement different tools or theory into my toolkit as I understand each element.  If you haven't used python before I would strongly urge you to use the codecademy course to familiarize yourself with the content and how to program.  Good luck and have fun.
+Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram).  These topics are covered throughout this repo.  I personally find the best way to learn a topic is to get my hands dirty quickly - with that in mind I would probably get to work in python and then implement different tools or theory into my toolkit as I understand each element.  If you haven't used python before I would strongly urge you to use the codecademy course to familiarize yourself with the content and how to program.  Good luck and have fun.
  
 ### Starting  
 * [Data Science Pipeline](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png=1000x100) - Detailed overview of data pipeline from MachineLearningMastery.com
@@ -304,6 +304,8 @@ There are some really great resources linked within this section covering all of
 * [FreeDataScienceBooks](https://github.com/chaconnewu/free-data-science-books/blob/master/free-data-science-books.md) - Free open sourced online data science books.  
 * [Gallery of Ipython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) - Introduction to Python, Data Science, Economics, Comp Sci, Linguistics, and much more.  
 * [Data Science 45 Min Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - The team @ Gnip have a collection of repos to introduce data science topics in roughly 45 minutes per topic.  
+* [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) - Collection of bloggers, twitter accounts, facebook accounts, MOOC's, datasets, tools.  
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and papers.  
 
 ### Auxiliary Content & Apps
 * [Markable](http://markable.in/editor/) - Let's me visualize my Markdown 
