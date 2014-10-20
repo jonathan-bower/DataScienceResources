@@ -13,7 +13,7 @@
 
 This repo is intended to provide open source resources to facilitate learning or point practicing/aspiring data scientists in the right direction.  Truth be told it exists so that I can keep track of resources that were helpful to me at a given time.  
 
-I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easy to find in the open-source world. I haven't focused on in-depth machine learning theory since that is well covered.  If you are looking for ML theory I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content), [here](#data-science-courses) and many purchasable books. 
+I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easy to find in the open-source world. I haven't focused on in-depth machine learning theory since that is well covered.  If you are looking for ML theory I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content), [here](#data-science-courses) and other info is available with lots of purchasable books. 
 
 This is a constant work in progress. If you have anything to add, any feedback, or would like to be a contributor - please reach out.  If there are any mistakes or typos, be patient with me but please let me know.      
 
@@ -234,7 +234,7 @@ Understanding product, user behavior, and product metrics is helpful for data sc
 * [Data Science @ Google](http://www.quora.com/What-is-the-Quant-Data-Science-Career-ladder-at-Google) - Quora answer about Data Science career trajectory @ google.  
 
 ### Types of Data Scientists
-Not all Data Scientists are the same and it's critical for organizations to understand what it is they need, and how best to fill those roles or complement the skills of their team.  Finding the organizational structure that enables the data scientists/data engineerings within the organization and generates better results is also crucial.  It should be given thorough consideration.      
+Not all Data Scientists are the same and it's critical for organizations to understand what it is they need, and how best to fill those roles and/or complement the skills of their team.  Finding the organizational structure that enables the data scientists/data engineers within the organization and generates better results is also crucial.  It should be given thorough consideration.      
 * [Kind's of Data Scientist](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html) - O'Reilly's classification of 4 different data scientists.
 * [Data Science For Startups](http://tomtunguz.com/data-science-types/) - Which of the Five Types of DS does your startup need?  Different classification from O'Reilly.
 * [My own blog post about DS Types][PLACEHOLDER]
@@ -265,7 +265,7 @@ More resources for community based information or hard copy books.
 * [Quora](http://www.quora.com/) - Question and Answer site - lots of Data Science Content.  
 
 ### Data Science Meetups in the Bay Area
-A great way to meet other Data Scientist and keep up to date with best practices.  
+A great way to meet other Data Scientists and keep up to date with best practices.  
 * [SF Data Science](http://www.meetup.com/SF-Data-Science/)  
 * [Data Science for Sustainability](http://www.meetup.com/Data-Science-for-Sustainability/)  
 * [Python Meetup Group](http://www.meetup.com/sfpython/)  
@@ -316,9 +316,9 @@ There are some really great resources linked within this section covering all of
 * [Gallery of Ipython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) - Introduction to Python, Data Science, Economics, Comp Sci, Linguistics, and much more.  
 * [Data Science 45 Min Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - The team @ Gnip have a collection of repos to introduce data science topics in roughly 45 minutes per topic.  
 
-### Other Content
+### Other Content - or Helpful apps
 * [Markable](http://markable.in/editor/) - Let's me visualize my Markdown 
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  - Self explanatory.  
+** [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  - Self explanatory.  
 * [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - Markdown editor that I use  
 * [iterm2](http://iterm2.com/) - Terminal application for Mac  
 * [Oh My Zsh](http://ohmyz.sh/) - Framework for managing your ZSH config.  Awesome.  
