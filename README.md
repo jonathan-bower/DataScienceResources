@@ -45,6 +45,7 @@ Lastly, I would add that a large portion of data science is exploratory data ana
 
 1. [Open Source Data Science Resources](#open-source-data-science-resources)
   * [Additional Open Source Content](#other-open-source-data-science-content)  
+  * [Auxiliary Content & Apps](#auxiliary-content-&-apps)
 
 1. [About Me](#about-me)
 
@@ -306,7 +307,7 @@ There are some really great resources linked within this section covering all of
 * [Gallery of Ipython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) - Introduction to Python, Data Science, Economics, Comp Sci, Linguistics, and much more.  
 * [Data Science 45 Min Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - The team @ Gnip have a collection of repos to introduce data science topics in roughly 45 minutes per topic.  
 
-### Other Content - or Helpful apps
+### Auxiliary Content & Apps
 * [Markable](http://markable.in/editor/) - Let's me visualize my Markdown 
 	* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  - Self explanatory.  
 * [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - Markdown editor that I use  
