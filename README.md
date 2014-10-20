@@ -22,9 +22,9 @@ Lastly, I would add that a large portion of data science is exploratory data ana
   	* [Model Selection](#model-selection)  
   	* [Model Evaluation](#model-evaluation)    
   	* [Feature Engineering](#feature-engineering)  
+  * [Additional Tools or Processes](#additional-tools-or-processes)  
   * [Data Visualization](#data-visualization)  
   * [ipython Notebook Tutorials](#ipython-notebook-tutorials)  
-  * [Additional Tools or Processes](#additional-tools-or-processes)  
   * [Data Sources](#data-sources)  
   * [New Data Tools](#new-data-tools) 
 
@@ -209,7 +209,15 @@ Collection of sites to access data if you want to build out a project or just us
 * [Open Energy Data Initiative](http://en.openei.org/wiki/Main_Page) - Over 800 data sets covering energy issues.   
 * [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html) - Data for machine learning - lots of labeled data and description of the problem types.   
 
-## Product Resources  
+### New Data Tools
+Aim to keep track of developing trends and new tech that is helpful for the practicing Data Scientist.  New might be a misnomer.
+* [BigML](https://bigml.com/) - machine learning for the everyday user, also useful for EDA.   
+* [GraphLab](http://graphlab.com/) - graph-based, high performance, distributed computation framework.  They just implemented deep learning onto their platform.
+* [ModeAnalytics](https://modeanalytics.com/) - platform to share analysis/data science.    
+* [Apache Mahout](https://mahout.apache.org/) - Scalable machine learning library.  Not in python.  
+* [Apache Hadoop](http://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing.   
+
+## Product 
 
 ###Product Metrics  
 Understanding product, user behavior, and product metrics is helpful for data scientists in industry. Being able to help your product manager and team execute on strategies by understanding the problem, metrics and what they understand facilitates a more fruitful relationship.   
@@ -235,14 +243,6 @@ Data Science has so many different applications and use cases within industry - 
 * [Kaggle Data Science Use Cases](https://www.kaggle.com/wiki/DataScienceUseCases) - Helpful to generate ideas for new uses in different industries
 * [Data Science for each Industry](http://www.mastersindatascience.org/industry/) - Description of uses for different industries.  
 * [Big Data Analytics News - use Cases](http://bigdataanalyticsnews.com/big-data-use-cases/) - For Big Data but that's almost synonymous with Data Science.
-
-### New Data Tools
-Aim to keep track of developing trends and new tech that is helpful for the practicing Data Scientist.  New might be a misnomer.
-* [BigML](https://bigml.com/) - machine learning for the everyday user, also useful for EDA.   
-* [GraphLab](http://graphlab.com/) - graph-based, high performance, distributed computation framework.  They just implemented deep learning onto their platform.
-* [ModeAnalytics](https://modeanalytics.com/) - platform to share analysis/data science.    
-* [Apache Mahout](https://mahout.apache.org/) - Scalable machine learning library.  Not in python.  
-* [Apache Hadoop](http://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing.   
 
 ### Data Science Websites/Books
 More resources for community based information or hard copy books.  
