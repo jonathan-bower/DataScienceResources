@@ -61,8 +61,8 @@ Data Science is a multidisciplinary field covering at the very minimum - statist
 
 ### Data Science Courses:
 * [Coursera](https://www.coursera.org/specialization/jhudatascience/1) - Data Science Specialization at Coursera - many other courses available as well.   
-* [Udacity](https://www.udacity.com/courses#!/data-science) - Online MOOCs that are the Data Science related courses 
-* [Data Science Bootcamps](http://yet-another-data-blog.blogspot.com/2014/04/data-science-bootcamp-landscape-full.html) - List of all bootcamps currently on the market as of April 5, 2014  
+* [Udacity](https://www.udacity.com/courses#!/data-science) - Online MOOCs that are the Data Science related courses. 
+* [Data Science Bootcamps](http://yet-another-data-blog.blogspot.com/2014/04/data-science-bootcamp-landscape-full.html) - List of all bootcamps currently on the market as of April 5, 2014.  
 * [Coursera Machine Learning Course](https://www.coursera.org/course/ml) - Coursera pinnacle Machine Learning course.   
 * [Edx](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VEANx9TF-tw) - EDX courses related to data science.
 
@@ -72,8 +72,8 @@ Data Science is a multidisciplinary field covering at the very minimum - statist
 Python is my workhorse language specifically as it has many data science and statistic library, the ability to work in production environments, and work on other problems outside of data science.  There are many other languages that could be useful but are not covered here: Julia, R, Cython, Pig, Scala, Java, etc.
 
 * [Python @ Codecademy](http://www.codecademy.com/en/tracks/python) - If you have never used Python, right this way..  
-* [The Python Wiki](https://wiki.python.org/moin/FrontPage) - Good resource with lots of info about Python  
-* [Python for Data Science Tutorial - Kaggle](https://www.kaggle.com/wiki/GettingStartedWithPythonForDataScience) - Stepping into Data Science with Kaggle and installing some libraries   
+* [The Python Wiki](https://wiki.python.org/moin/FrontPage) - Good resource with lots of info about Python.  
+* [Python for Data Science Tutorial - Kaggle](https://www.kaggle.com/wiki/GettingStartedWithPythonForDataScience) - Stepping into Data Science with Kaggle and installing some libraries.   
 * [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) - Just as the name says - some introductory level information and exercises.  
 * [Git tutorial](https://try.github.io/levels/1/challenges/1) - Git for Version Control.  Simple tutorial for Git from Github.  
 
@@ -84,27 +84,27 @@ A collection of workhorse libraries that are elemental for any python data scien
 * [SciPy](http://www.scipy.org/) - Open-source software for mathematics, science and engineering.  
 * [NumPy](http://www.numpy.org/) - Fundamental package for scientific computing with Python.  
 * [StatsModels](http://statsmodels.sourceforge.net/) - Module that allows users to explore data, estimate statistical models and perform statistical tests.  
-* [PyMC](https://pypi.python.org/pypi/pymc) - Bayesian estimation useful for Markov chain Monte Carlo analysis (among other things)
+* [PyMC](https://pypi.python.org/pypi/pymc) - Bayesian estimation useful for Markov chain Monte Carlo analysis (among other things).
 * [Probalistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Github Repo all about the namesake.  
 * [The only probability Cheatsheet you'll ever need](https://bayesrule.files.wordpress.com/2014/07/probability_cheatsheet_140718.pdf) - Self explanatory - (thanks William Chen @ http://datastories.quora.com/) for pointing me this sweet cheat sheet out - wish I had that back at college.  
 
 ####Data Acquisition
 Libraries that are very helpful for abstracting away some of the complications of scraping or working with HTTP.   
-* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - a python library to make web-scraping HTML easier  
+* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - A python library to make web-scraping HTML easier.  
 	* [Beautiful Soup Cheat Sheet](http://youkilljohnny.blogspot.com/2014/03/beautifulsoup-cheat-sheet-parse-html-by.html)  
 * [Requests](http://docs.python-requests.org/en/latest/) - HTTP for Humans - python library that makes working with http and api's more effortless  
 
 ####Processing & Exploratory Data Analysis
 A collection of documents explaining some of the ways to do processing & EDA.  
-* [Unix for Processing](http://www.theunixschool.com/p/awk-sed.html) - sed & awk for data processing  
-* [Pandas](http://pandas.pydata.org/) - Already mentioned is great for data processing - cleaning, filtering and getting rid of nan's, normalizing, scaling, replacing values, etc  
-* [SciKit Learn for Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing) - Docstring on sklearn's preprocessing methods.  
+* [Unix for Processing](http://www.theunixschool.com/p/awk-sed.html) - sed & awk for data processing.  
+* [Pandas](http://pandas.pydata.org/) - Already mentioned is great for data processing - cleaning, filtering and getting rid of nan's, normalizing, scaling, replacing values, etc.  
+* [SciKit Learn for Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing) - Doc on sklearn's preprocessing methods.  
 * [Regular Expressions](http://www.zytrax.com/tech/web/regex.htm) - Regex explained.  
 
 ###Databases/Frameworks
 A collection of databases & frameworks that are helpful for data management and are the industry standard.  
-* [SQL](http://www.postgresql.org/) -- SQL Database - I linked to Postgres since that is the version I use. 
-* [Psycopg](http://initd.org/psycopg/) -- Pyton <> Postgres.  Able to adapt PostgreSQL for the python environment   
+* [SQL](http://www.postgresql.org/) - SQL Database - I linked to Postgres since that is the version I use. 
+* [Psycopg](http://initd.org/psycopg/) - Pyton <> Postgres.  Able to adapt PostgreSQL for the python environment.    
 	* [SQL Cheet Sheet](http://www.sql-tutorial.net/sql-cheat-sheet.pdf)   
 	* [SQLZoo](http://sqlzoo.net/wiki/Main_Page) - Develop your skills  
 	* [SQLSchool](http://sqlschool.modeanalytics.com/) - Develop your skills    
@@ -113,9 +113,9 @@ A collection of databases & frameworks that are helpful for data management and 
 	* [MongoDB - cheatsheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - Cheat sheet for MongoDB    
 * [Apache Hive](https://hive.apache.org/) - Uses Hive Query Language (HQL) - similar to SQL for data at scale.     
 	* [Hive Cheatsheet](http://hortonworks.com/wp-content/uploads/downloads/2013/08/Hortonworks.CheatSheet.SQLtoHive.pdf) - Self Explanatory.  
-* [ElasticSearch](http://www.elasticsearch.org/) - For scalable, fast text search/analysis  
-* [Neo4j](http://www.neo4j.org/) - Leading graph database    
-* [Redis](http://redis.io/) - Key-value open source data structure server  
+* [ElasticSearch](http://www.elasticsearch.org/) - For scalable, fast text search/analysis.  
+* [Neo4j](http://www.neo4j.org/) - Leading graph database.    
+* [Redis](http://redis.io/) - Key-value open source data structure server.  
 * [Redshift](http://aws.amazon.com/redshift/) - AWS petabyte-scale data warehouse solution.  
 * [Hadoop - the definitive guide](http://ce.sysu.edu.cn/hope/UploadFiles/Education/2011/10/201110221516245419.pdf) - Hadoop ecosystem.  
 * [Spark](https://spark.apache.org/) - Lightening fast cluster computing.
@@ -125,8 +125,8 @@ There is a lot of information available online about the theory, mathematical in
 * [SciKit-Learn](http://scikit-learn.org/stable/) - Simple and efficient machine learning tools for data mining and data analysis    
 * [NLTK](http://www.nltk.org/) - Natural Language Toolkit to work with human languages data.  
 * [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) - Blog post about some of the high level ML methods
-* [VIDEO - How to get started w/mL](https://www.youtube.com/watch?v=uBorfxosVYs) - Melanie Warrick @ PyCon 2014  
-* [Some ML methods classified](http://nyghtowlblog.files.wordpress.com/2014/04/ml_algorithms.png?w=535&h=311) - Classification for some sample ML algorithms.  
+* [VIDEO - How to get started w/mL](https://www.youtube.com/watch?v=uBorfxosVYs) - Melanie Warrick @ PyCon 2014.  
+* [Some ML methods classified](http://nyghtowlblog.files.wordpress.com/2014/04/ml_algorithms.png?w=535&h=311) - Classification for some sample ML algorithms by Melanie Warrick.  
 * [SciKit-image](http://scikit-image.org/) - Algorithms for image processing.  
 * [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.  
 * [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes. 
@@ -144,17 +144,17 @@ Resources to help with understanding model evaluation.
 
 ####Feature Engineering
 A critical element of Data Science to improve your performance but minimally talked about.   
-* [Ipython Notebook for Feature engineering](http://nbviewer.ipython.org/urls/raw2.github.com/yhat/DataGotham2013/master/notebooks/7%20-%20Feature%20Engineering.ipynb?create=1) - Some discussion about Feature Engineering
+* [Ipython Notebook for Feature engineering](http://nbviewer.ipython.org/urls/raw2.github.com/yhat/DataGotham2013/master/notebooks/7%20-%20Feature%20Engineering.ipynb?create=1) - Some discussion about Feature Engineering.
 * [CS Princeton Course](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/18-feat.pdf) - Course content on Feature Engineering.  
 * [Blog Post about Feature Engineering / Data Exploration](http://deblivingdata.net/machine-learning-tricks/) - Blog post about topic.   
 
 ### Additional Tools or Processes
 Resources on other topics that are very helpful for data scientists and product.  
-* [A/B Testing](http://conversionxl.com/how-to-build-a-strong-ab-testing-plan-that-gets-results/#.) - Blog about A/B testing
+* [A/B Testing](http://conversionxl.com/how-to-build-a-strong-ab-testing-plan-that-gets-results/#.) - Blog about A/B testing.
 * [A/B Testing](http://unbounce.com/a-b-testing/5-ways-youre-screwing-up-your-a-b-testing/) - And how you are screwing it up.  
-* [Bloom Filters](http://nbviewer.ipython.org/github/ctb/2013-pycon-awesome-big-data-algorithms/blob/master/04-bloom-filters.ipynb)  - Python notebook about bloom filters
-* [Bloom filters](http://billmill.org/bloomfilter-tutorial/)  - Bloom Filters   
-* [Reservoir Sampling](http://blog.cloudera.com/blog/2013/04/hadoop-stratified-randosampling-algorithm/) - A primer on Reservoir Sampling  
+* [Bloom Filters](http://nbviewer.ipython.org/github/ctb/2013-pycon-awesome-big-data-algorithms/blob/master/04-bloom-filters.ipynb)  - Python notebook about bloom filters.
+* [Bloom filters](http://billmill.org/bloomfilter-tutorial/)  - Bloom Filters.   
+* [Reservoir Sampling](http://blog.cloudera.com/blog/2013/04/hadoop-stratified-randosampling-algorithm/) - A primer on Reservoir Sampling.  
 * [Reservoir Sampling Again](http://www.geeksforgeeks.org/reservoir-sampling/)  
 * [Monte Carlo for the Monty Hall Problem](http://slantedwindows.com/monty-hall-meet-mr-monte-carlo/) - Hyon puts on a good explanation to MC for the Monty Hall Problem.  
 * [Markov Chain Monte Carlo](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter3_MCMC/IntroMCMC.ipynb) - Opening the black box of MCMC.
@@ -164,30 +164,30 @@ Resources on other topics that are very helpful for data scientists and product.
 
 ### Data Visualization
 Collection of the best libraries that I know for easy and powerful data visualizations.
-* [ggplot](http://ggplot.yhathq.com/) - ggplot for python ported by the team at yhat  
-* [matplotlib](http://matplotlib.org/) - awesome plotting library for python.  
+* [ggplot](http://ggplot.yhathq.com/) - ggplot for python ported by the team at yhat.  
+* [matplotlib](http://matplotlib.org/) - Awesome plotting library for python.  
 * [d3](http://d3js.org/) - De facto gold standard for polished visualization - in js, steep learning curve but beautiful outcomes.
-* [bokeh](http://bokeh.pydata.org/) - interactive visualization library.  
-* [d3py](https://github.com/mikedewar/d3py) - another library for data viz 
-* [vincent](http://vincent.readthedocs.org/en/latest/)  - help with python for d3
+* [bokeh](http://bokeh.pydata.org/) - Interactive visualization library.  
+* [d3py](https://github.com/mikedewar/d3py) - Another library for data viz. 
+* [vincent](http://vincent.readthedocs.org/en/latest/)  - Help with python for d3.
 * [seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - Clean statistical data visualization library.  
 
-Design Theory -- 
-The importance of design theory in data visualization and presentations could not be understated though many people pay no heed (probably through a lack of understanding than anything else).  I will try and find some good resources.
+Design Theory -
+The importance of design theory in data visualization and presentations could not be understated though many people pay no heed (probably through a lack of understanding than anything else).  I will find some good resources.
 [PLACE HOLDER]
 
 ### Ipython Notebook Tutorials
 Collection of ipython notebooks that are helpful as examples to either using tools or to explain certain topics.
 * [Pandas Tutorial](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb) - Basic intro to Pandas in notebook form.  
-* [Scipy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb) - Basic Scipy Tutorial 
-* [Numpy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb) - Basic Numpy Tutorial 
-* [Multiple Regressions using Statsmodels](http://nbviewer.ipython.org/urls/s3.amazonaws.com/datarobotblog/notebooks/multiple_regression_in_python.ipynb) - Using statsmodels for regression  
-* [Intro to PyMC](http://nbviewer.ipython.org/github/fonnesbeck/Bios366/blob/master/notebooks/Section4_3-Introduction-to-PyMC.ipynb) - Intro to PyMC 
-* [More on PyMC](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter2_MorePyMC/MorePyMC.ipynb) - More PyMC  
-* [Kaggle Titanic Comp Tutorial](http://nbviewer.ipython.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb) - Kaggle Titanic Tutorial using RandomForests
-* [Psycopg2 tutorial in Python](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial) - How to use Psycopg2     
-* [SQL in iPython](http://nbviewer.ipython.org/gist/catherinedevlin/6588378) - SQL in Python   
-* [Mongo in Python](http://api.mongodb.org/python/current/tutorial.html) - Mongo in Python   
+* [Scipy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb) - Basic Scipy Tutorial. 
+* [Numpy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb) - Basic Numpy Tutorial. 
+* [Multiple Regressions using Statsmodels](http://nbviewer.ipython.org/urls/s3.amazonaws.com/datarobotblog/notebooks/multiple_regression_in_python.ipynb) - Using statsmodels for regression.  
+* [Intro to PyMC](http://nbviewer.ipython.org/github/fonnesbeck/Bios366/blob/master/notebooks/Section4_3-Introduction-to-PyMC.ipynb) - Intro to PyMC. 
+* [More on PyMC](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter2_MorePyMC/MorePyMC.ipynb) - More PyMC.  
+* [Kaggle Titanic Comp Tutorial](http://nbviewer.ipython.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb) - Kaggle Titanic Tutorial using RandomForests.
+* [Psycopg2 tutorial in Python](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial) - How to use Psycopg2.     
+* [SQL in iPython](http://nbviewer.ipython.org/gist/catherinedevlin/6588378) - SQL in Python.   
+* [Mongo in Python](http://api.mongodb.org/python/current/tutorial.html) - Mongo in Python.   
 * [Beautiful Soup Tutorial](http://nbviewer.ipython.org/github/kcranston/2013-08-ku/blob/master/beautifulsoup/notebooks/00-BeautifulSoup.ipynb) - Beautiful Soup! 
 * [Sci-Kit Learn Basics](http://nbviewer.ipython.org/urls/raw2.github.com/yhat/DataGotham2013/master/notebooks/4%20-%20scikit-learn%20basics.ipynb?create=1)  - Machine Learning Basics with scikit-learn.
 * [MatPlotLib](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb) - Some of the possibilities of data-viz with MatPlotLib.
@@ -196,7 +196,7 @@ Collection of ipython notebooks that are helpful as examples to either using too
 * [Crash Course in Python for Scientists](http://nbviewer.ipython.org/gist/rpmuller/5920182) - Ipython Notebook for Scientists!   
 * [Regular Expressions](http://nbviewer.ipython.org/gist/rjweiss/7577022) - Regex to match patterns in strings - very powerful.  
 * [MapReduce](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab8/lab8_mapreduce.ipynb) - Classes, inheritance and map-reduce exercises.  
-* [Recursion](http://nbviewer.ipython.org/github/gumption/Motivating_and_Visualizing_Recursion_in_Python/blob/master/Motivating_and_Visualizing_Recursion_in_Python.ipynb)  Notebook visualization recursion "The single most powerful idea in algorithms"  
+* [Recursion](http://nbviewer.ipython.org/github/gumption/Motivating_and_Visualizing_Recursion_in_Python/blob/master/Motivating_and_Visualizing_Recursion_in_Python.ipynb)  Notebook visualization recursion "The single most powerful idea in algorithms".  
 * [Recursion](http://anandology.com/python-practice-book/functional-programming.html) More about Recursion and Functional Programming  
 
 ### Data Sources
@@ -233,8 +233,8 @@ Not all Data Scientists are the same and it's critical for organizations to unde
 ### Data Science Applications/Use Cases
 Data Science has so many different applications and use cases within industry - many are continuously discovered.  These resources provide some potential ideas.
 * [Kaggle Data Science Use Cases](https://www.kaggle.com/wiki/DataScienceUseCases) - Helpful to generate ideas for new uses in different industries
-* [Data Science for each Industry](http://www.mastersindatascience.org/industry/) - description of uses for different industries.  
-* [Big Data Analytics News - use Cases](http://bigdataanalyticsnews.com/big-data-use-cases/) - for Big Data but that's almost synonymous with Data Science.
+* [Data Science for each Industry](http://www.mastersindatascience.org/industry/) - Description of uses for different industries.  
+* [Big Data Analytics News - use Cases](http://bigdataanalyticsnews.com/big-data-use-cases/) - For Big Data but that's almost synonymous with Data Science.
 
 ### New Data Tools
 Aim to keep track of developing trends and new tech that is helpful for the practicing Data Scientist.  New might be a misnomer.
@@ -247,8 +247,8 @@ Aim to keep track of developing trends and new tech that is helpful for the prac
 ### Data Science Websites/Books
 More resources for community based information or hard copy books.  
 * [Data Science Handbook](https://medium.com/@pericarus/introducing-the-data-science-handbook-b2bfa216bf4b) - Not yet released but should be interesting providing stories from academia and industry about data science - go read the post for a better description!
-* [CrossValidated](http://stats.stackexchange.com/) - a question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.    
-* [StackOverflow](stackoverflow.com) - language-independent collaboratively edited question and answer site for programmers.   
+* [CrossValidated](http://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.    
+* [StackOverflow](stackoverflow.com) - Language-independent collaboratively edited question and answer site for programmers.   
 * [Kaggle](http://www.kaggle.com) - Model building competition and great resources for training and data.  
 * [O'Reilly Media](http://shop.oreilly.com/category/get/data-science-kit.do) -They have a lot of content rich books available for Data Science and using the tools for excellent data science.    
 * [Quora](http://www.quora.com/) - Question and Answer site - lots of Data Science Content.  
@@ -267,14 +267,14 @@ A great way to meet other Data Scientists and keep up to date with best practice
 The name say's it all.  
 * [Data Stories @ Quroa](http://datastories.quora.com/) - William Chen's (DS@Quora) blog about data science.  
 * [FastML](http://fastml.com/)  
-* [FiveThirtyEight Blog](http://fivethirtyeight.com/) - Nate Silver's blog
-* [Data Science Hanbook](http://www.datasciencehandbook.me/) - Data Science Handbook Project (not quite a blog but it fits here)  
+* [FiveThirtyEight Blog](http://fivethirtyeight.com/) - Nate Silver's blog.
+* [Data Science Hanbook](http://www.datasciencehandbook.me/) - Data Science Handbook Project (not quite a blog but it fits here).  
 * [Simply Statistics Blog](http://simplystatistics.org/)  
 * [All The Things Tech](http://nyghtowl.io/)  
 * [Musings in Data Science](http://deblivingdata.net/)  
-* [Zipfian Data Science Blog](http://www.zipfianacademy.com/blog/)  
+* [Zipfian Data Science Blog](http://www.zipfianacademy.com/blog/) - Zipfian Academy DS Blog. 
 * [Machine Learning Mastery](http://machinelearningmastery.com/) 
-* [DataTau](http://datatau.com) - Hackernews for Data Science
+* [DataTau](http://datatau.com) - Hackernews for Data Science.
 * [HackerNews](https://news.ycombinator.com/) 
 * [Quora](http://quora.com) - Q&A site with lots of information about Data Science.
 
@@ -282,8 +282,8 @@ The name say's it all.
 * [ThreeStoryBlog](http://blog.threestory.com/)
 
 ### Data Science Conferences
-* [Strata](http://strataconf.com/) - Conference and a TON of old videos from previous conferences - great resource.  
-* [GraphLab](http://graphlab.com/events/conference14.html) - Another solid conference.  
+* [Strata](http://strataconf.com/) - Conference and a lot of videos from previous conferences - great resource.  
+* [GraphLab](http://graphlab.com/events/conference14.html) - Another great conference.  
 
 ### Data Science Presentations
 * [Strata Collection of Presentations](http://strataconf.com/strata2014/public/schedule/proceedings) - Most of their conference presentations available online.
@@ -308,8 +308,8 @@ There are some really great resources linked within this section covering all of
 ### Auxiliary Content & Apps
 * [Markable](http://markable.in/editor/) - Let's me visualize my Markdown 
 	* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  - Self explanatory.  
-* [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - Markdown editor that I use  
-* [iterm2](http://iterm2.com/) - Terminal application for Mac  
+* [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - Markdown editor that I use.  
+* [iterm2](http://iterm2.com/) - Terminal application for Mac.  
 * [Oh My Zsh](http://ohmyz.sh/) - Framework for managing your ZSH config.  Awesome.  
 * [Sublime Text Editor](http://www.sublimetext.com/) - For all your scripting needs.  
 
