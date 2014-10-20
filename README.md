@@ -217,8 +217,6 @@ Understanding product, user behavior, and product metrics is helpful for data sc
 * [Analytics for Product Managers](http://www.mindtheproduct.com/2013/02/everything-a-product-manager-needs-to-know-about-analytics/) - Everything a PM needs to know about analytics - or the minimum amount your PM should know about analytics as a Data Scientist.  
 * [Startups, you are doing data science wrong!](https://gigaom.com/2013/09/28/notice-to-startups-you-are-doing-data-science-wrong/) - High level explanation about how to use data science in a start-up company.  
 * [Product Psychology](http://www.productpsychology.com/category/user-behavior/)  - Understanding user behavior.  
-* [Salesforce](http://www.salesforce.com) - Salesforce for Customer Relationship Management (CRM) software.  
-* [Infer](http://www.infer.com) - Predictive lead scoring for sales & marketing.  
 
 ## Career Resources
 
