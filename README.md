@@ -160,7 +160,6 @@ Resources on other topics that are very helpful for data scientists and product.
 * [Multithreading and Queues](http://pymotw.com/2/Queue/) - How to build multithreading and queues.   
 * [Basics of Multithreading and queses](http://www.troyfawkes.com/learn-python-multithreading-queues-basics/)  - More about multithreading.
 * [Building a Recommender System](http://www.quora.com/How-can-I-start-building-a-recommendation-engine) - Quora answer to this question.  Helpful starting point.
-* [Hash Tables]() - [PLACEHOLDER]
 
 ### Data Visualization
 Collection of the best libraries that I know for easy and powerful data visualizations.
@@ -172,8 +171,9 @@ Collection of the best libraries that I know for easy and powerful data visualiz
 * [vincent](http://vincent.readthedocs.org/en/latest/)  - help with python for d3
 * [seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - Clean statistical data visualization library.  
 
-Design Theory -- [PLACE HOLDER]
-The importance of design theory in data visualization and presentations could not be understated though many people pay no heed (probably through a lack of understanding than anything else).  I will try and find some good resources to fill this.
+Design Theory -- 
+The importance of design theory in data visualization and presentations could not be understated though many people pay no heed (probably through a lack of understanding than anything else).  I will try and find some good resources.
+[PLACE HOLDER]
 
 ### Ipython Notebook Tutorials
 Collection of ipython notebooks that are helpful as examples to either using tools or to explain certain topics.
@@ -228,7 +228,6 @@ Understanding product, user behavior, and product metrics is helpful for data sc
 Not all Data Scientists are the same and it's critical for organizations to understand what it is they need, and how best to fill those roles and/or complement the skills of their team.  Finding the organizational structure that enables the data scientists/data engineers within the organization and generates better results is also crucial.  It should be given thorough consideration.      
 * [Kind's of Data Scientist](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html) - O'Reilly's classification of 4 different data scientists.
 * [Data Science For Startups](http://tomtunguz.com/data-science-types/) - Which of the Five Types of DS does your startup need?  Different classification from O'Reilly.
-* [My own blog post about DS Types][PLACEHOLDER]
 * [Building Data Science Teams](http://radar.oreilly.com/2011/09/building-data-science-teams.html) - posted from 2011 about how to build data science teams.
 * [Data Science Team Building - The Power of Collaborative Analytics](http://www.experfy.com/blog/data-science-team-building-power-collaborative-analytics/) - Post post about different team org structures,  difference between DS & BI.
  
