@@ -1,12 +1,12 @@
 ##Data Science Resources
 
-This repo is intended to provide free and available resources from the internet to either aid in learning or point practicing/aspiring Data Scientists in the right direction.  Mostly it exists so that I can keep track of resources that were helpful to me at a given time.  
+This repo is intended to provide free and available resources from the internet to either aid in learning or point practicing/aspiring data scientists in the right direction.  Mostly it exists so that I can keep track of resources that were helpful to me at a given time.  It does have articles referring to how data science is implemented in startups, how to use data science to enable better product and other topical data science information that I am personally interested in.  
 
 I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easily to find in the open-source world of the internet. I haven't focused on theory, for that I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content) and [here](#data-science-courses). 
 
-Below are the collection of open source resources I have collected so far. It is a constant work in progress. If you have anything to add or want to be a contributor - please reach out.    
+Below is the collection of useful open source resources I have collected so far. It is a constant work in progress. If you have anything to add or want to be a contributor - please reach out.      
 
-Lastly, I would add that a large portion of Data Science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - so if one method isn't working re-evaluate and try another.  Good luck and I hope this repo helps!
+Lastly, I would add that a large portion of data science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - so if one method isn't working re-evaluate and try another.  Good luck and I hope this repo helps!
 
 #Table Of Contents
 1. [Data Science Getting Started](#data-science-getting-started)   
@@ -24,7 +24,10 @@ Lastly, I would add that a large portion of Data Science is exploratory data ana
   * [ipython Notebook Tutorials](#ipython-notebook-tutorials)  
   * [Additional Tools or Processes](#additional-tools-or-processes)  
   * [Data Sources](#data-sources)  
-  * [New Data Tools](#new-data-tools)  
+  * [New Data Tools](#new-data-tools) 
+
+1. [Product](#product)
+  * [Product Metrics](#product-metrics)     
 
 1. [Career Resources](#career-resources)
   * [Data Science Career Path](#data-science-career-path)    
@@ -46,8 +49,8 @@ Lastly, I would add that a large portion of Data Science is exploratory data ana
 Section of the data pipeline & resources:
 
 ## Data Science Getting Started
-Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning.  
-Data Pipeline 
+Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning.  These topics are covered throughout this repo.  I find the best way to learn a topic is to get my hands dirty quickly -- with that in mind I would probably get to work in python and then implement different tools or theory into my toolkit as I understand each element.  If you haven't used python before I would strongly urge you to use the codecademy course to familiarize yourself with the content and how to program.  Good luck and have fun.
+ 
 ### Starting  
 * [Data Science Pipeline](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png=1000x100) - Detailed overview of data pipeline from MachineLearningMastery.com
 * [Intro to ipython](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks/_edit#entire-books-or-other-large-collections-of-notebooks-on-a-topic) - A curation of Ipython Notebooks great for introductory level to python, programming, comp sci, data science and other topics.    
@@ -72,8 +75,8 @@ Python is my workhorse language specifically as it has many data science and sta
 
 ####Stats/Engineering Libraries
 A collection of workhorse libraries that are elemental for any python data scientist.  
-[Pandas](http://pandas.pydata.org/) Pandas for EDA on small to medium sized data sets when you don't want to put the infrastructure for SQL or when it isn't necessary  
-* [Numpy/Pandas/Scipy Cheatsheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf) - self explanatory   
+* [Pandas](http://pandas.pydata.org/) Pandas for EDA on small to medium sized data sets when you don't want to put the infrastructure for SQL or when it isn't necessary.  It has many other great applications other than just better than SQL on small to medium data sets.  
+** [Numpy/Pandas/Scipy Cheatsheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf) - self explanatory   
 * [SciPy](http://www.scipy.org/) - Open-source software for mathematics, science and engineering.  
 * [NumPy](http://www.numpy.org/) - Fundamental package for scientific computing with Python.  
 * [StatsModels](http://statsmodels.sourceforge.net/) - Module that allows users to explore data, estimate statistical models and perform statistical tests.  
@@ -83,7 +86,7 @@ A collection of workhorse libraries that are elemental for any python data scien
 ####Data Acquisition
 Libraries that are very helpful for abstracting away some of the complications of scraping or working with HTTP.   
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - a python library to make web-scraping HTML easier  
-* [Beautiful Soup Cheat Sheet](http://youkilljohnny.blogspot.com/2014/03/beautifulsoup-cheat-sheet-parse-html-by.html)  
+** [Beautiful Soup Cheat Sheet](http://youkilljohnny.blogspot.com/2014/03/beautifulsoup-cheat-sheet-parse-html-by.html)  
 * [Requests](http://docs.python-requests.org/en/latest/) - HTTP for Humans - python library that makes working with http and api's more effortless  
 
 ####Processing & Exploratory Data Analysis
@@ -97,14 +100,14 @@ A collection of documents explaining some of the ways to do processing & EDA.
 A collection of databases & frameworks that are helpful for data management and are the industry standard.  
 * [SQL](http://www.postgresql.org/) -- SQL Database - I linked to Postgres since that is the version I use. 
 * [Psycopg](http://initd.org/psycopg/) -- Pyton <> Postgres.  Able to adapt PostgreSQL for the python environment   
-* [SQL Cheet Sheet](http://www.sql-tutorial.net/sql-cheat-sheet.pdf)   
-* [SQLZoo](http://sqlzoo.net/wiki/Main_Page) - Develop your skills  
-* [SQLSchool](http://sqlschool.modeanalytics.com/) - Develop your skills  
+** [SQL Cheet Sheet](http://www.sql-tutorial.net/sql-cheat-sheet.pdf)   
+** [SQLZoo](http://sqlzoo.net/wiki/Main_Page) - Develop your skills  
+** [SQLSchool](http://sqlschool.modeanalytics.com/) - Develop your skills  
 [MongoDB](http://www.mongodb.org/) - NoSQL database  
 * [PyMongo](http://api.mongodb.org/python/current/tutorial.html) - Python Mongo Driver.  
-* [MongoDB - cheatsheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - Cheat sheet for MongoDB    
+** [MongoDB - cheatsheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - Cheat sheet for MongoDB    
 * [Apache Hive](https://hive.apache.org/) - Uses Hive Query Language (HQL) - similar to SQL for data at scale.     
-* [Hive Cheatsheet](http://hortonworks.com/wp-content/uploads/downloads/2013/08/Hortonworks.CheatSheet.SQLtoHive.pdf) - Self Explanatory.  
+** [Hive Cheatsheet](http://hortonworks.com/wp-content/uploads/downloads/2013/08/Hortonworks.CheatSheet.SQLtoHive.pdf) - Self Explanatory.  
 * [ElasticSearch](http://www.elasticsearch.org/) - For scalable, fast text search/analysis  
 * [Neo4j](http://www.neo4j.org/) - Leading graph database    
 * [Redis](http://redis.io/) - Key-value open source data structure server  
@@ -152,6 +155,7 @@ Resources on other topics that are very helpful for data scientists and product.
 * [Hash Tables]() - [PLACEHOLDER]
 
 ### Data Visualization
+Collection of the best libraries that I know for easy and powerful data visualizations.
 * [ggplot](http://ggplot.yhathq.com/) - ggplot for python ported by the team at yhat  
 * [matplotlib](http://matplotlib.org/) - awesome plotting library for python.  
 * [d3](http://d3js.org/) - de facto gold standard for polished visualization - in js, steep learning curve.  
@@ -165,6 +169,7 @@ The importance of design theory in data visualization and presentations could no
 
 
 ### Ipython Notebook Tutorials
+Collection of ipython notebooks that are helpful as examples to either using tools or to explain certain topics.
 * [Pandas Tutorial](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb) - Basic intro to Pandas in notebook form.  
 * [Scipy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb) - Basic Scipy Tutorial 
 * [Numpy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb) - Basic Numpy Tutorial 
@@ -196,6 +201,14 @@ Collection of sites to access data if you want to build out a project or just us
 * [Open Energy Data Initiative](http://en.openei.org/wiki/Main_Page) - Over 800 data sets covering energy issues.   
 * [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html) - Data for machine learning - lots of labeled data and description of the problem types.   
 
+## Product Resources  
+
+###Product Metrics  
+* [Actionable Metrics](http://practicetrumpstheory.com/3-rules-to-actionable-metrics/) - Funnel reports, cohort analysis, actionable metrics.  
+* [Analytics for Product Managers](http://www.mindtheproduct.com/2013/02/everything-a-product-manager-needs-to-know-about-analytics/) - Everything a PM needs to know about analytics - or the minimum amount your PM should know about analytics as a Data Scientist.  
+* [Startups, you are doing data science wrong!](https://gigaom.com/2013/09/28/notice-to-startups-you-are-doing-data-science-wrong/) - High level explanation about how to use data science in a start-up company.  
+* [Salesforce](http://www.salesforce.com) - Salesforce for Customer Relationship Management (CRM) software.  
+* [Infer](http://www.infer.com) - Predictive lead scoring for sales & marketing.  
 
 ## Career Resources
 
@@ -211,12 +224,13 @@ Collection of sites to access data if you want to build out a project or just us
 ### Data Science Applications/Use Cases
 Data Science has so many different applications and use cases within industry - many are continuously discovered.  These resources provide some potential ideas.
 * [Kaggle Data Science Use Cases](https://www.kaggle.com/wiki/DataScienceUseCases) - Helpful to generate ideas for new uses in different industries
+* [Data Science for each Industry](http://www.mastersindatascience.org/industry/) - description of uses for different industries.  
 * [Big Data Analytics News - use Cases](http://bigdataanalyticsnews.com/big-data-use-cases/) - for Big Data but that's almost synonymous with Data Science.
 
 ### New Data Tools
 Aim to keep track of developing trends and new tech that is helpful for the practicing Data Scientist.
 * [BigML](https://bigml.com/) - machine learning for the everyday user, also useful for EDA.   
-* [GraphLab](http://graphlab.com/) - graph-based, high performance, distributed computation framework.    
+* [GraphLab](http://graphlab.com/) - graph-based, high performance, distributed computation framework.  They just implemented deep learning onto their platform.
 * [ModeAnalytics](https://modeanalytics.com/) - platform to share analysis/data science.    
 
 ### Data Science Websites/Books
@@ -260,16 +274,16 @@ The name say's it all.
 ### Data Science Presentations
 * [Strata Collection of Presentations](http://strataconf.com/strata2014/public/schedule/proceedings) - Most of their conference presentations available online.
 
-### Relevent Business Processes
+### Relevant Business Processes
 * [Lean Startup](http://theleanstartup.com/principles) - A method to develop product and businesses.
 * [Agile Development](http://en.wikipedia.org/wiki/Agile_software_development) - group of software development methods to optimize for self-organizational and cross-functional teams.
 * [Scrum](http://en.wikipedia.org/wiki/Scrum_(software_development)) - an interative and incremental agile software development framework for managing product development.  
 
 ##Open Source Data Science Resources
-While the name might sound redundant this section represents other sites or repos that have aggregated information as well.
+While the name might sound redundant this section represents other sites or repos that have aggregated information covering similar topics.  Tons of great content on these sites - definitely go check them out.  
 
 ### Other Open Source Data Science Content
-There are some really great resources linked within this section covering all of Data Science, the entire data pipeline, machine-learning, statistics, python, etc.  Go check them out.
+There are some really great resources linked within this section covering all of Data Science, the entire data pipeline, machine-learning, statistics, python, etc.  Go check them out.  
 * [Open Data Science Masters](http://datasciencemasters.org/) - Open Source online blog/github with lots of resources available for data science.  
 * [A Practical Intro to Data Science](http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science) - List of excellent resources available  
 * [LearnDataScience](https://github.com/nborwankar/LearnDataScience) - IpythonNotebooks for Linear Regression, Logistic Regression, Random Forests, K-Means Clustering  
@@ -282,8 +296,6 @@ There are some really great resources linked within this section covering all of
 * [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - Markdown editor that I use  
 * [iterm2](http://iterm2.com/) - Terminal application for Mac  
 * [Oh My Zsh](http://ohmyz.sh/) - Framework for managing your ZSH config.  Awesome.  
-
-
 
 ## ABOUT ME
 
