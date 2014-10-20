@@ -45,7 +45,7 @@ Lastly, I would add that a large portion of data science is exploratory data ana
 
 1. [Open Source Data Science Resources](#open-source-data-science-resources)
   * [Additional Open Source Content](#other-open-source-data-science-content)  
-  * [Auxiliary Content & Apps](#auxiliary-content-&-apps)
+  * [Auxiliary Content & Apps](#auxiliary-content--apps)
 
 1. [About Me](#about-me)
 
