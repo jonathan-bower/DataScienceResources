@@ -2,9 +2,9 @@
 
 This repo is intended to provide open source resources to facilitate learning or point practicing/aspiring data scientists in the right direction.  Truth be told it exists so that I can keep track of resources that were helpful to me at a given time.  
 
-I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easy to find in the open-source world. I haven't focused on in-depth machine learning theory since that is well covered.  If you are looking for ML theory I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content), [here](#data-science-courses) and other info is available with lots of purchasable books. 
+I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easy to find in the open-source world. I haven't focused on in-depth machine learning theory since that is well covered.  If you are looking for ML theory I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content), [here](#data-science-courses) and other info is available with many purchasable books. 
 
-This is a constant work in progress. If you have anything to add, any feedback, or would like to be a contributor - please reach out.  If there are any mistakes or typos, be patient with me but please let me know.      
+This is a constant work in progress. If you have anything to add, any feedback, or would like to be a contributor - please reach out.  If there are any mistakes or typos, be patient with me, but please let me know.      
 
 Lastly, I would add that a large portion of data science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - so if one method isn't working re-evaluate, re-work the problem, try another approach or reach out to the community for support.  Good luck and I hope this repo is helpful!
 
