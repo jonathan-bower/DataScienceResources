@@ -107,7 +107,7 @@ A collection of databases & frameworks that are helpful for data management and 
 * [Psycopg](http://initd.org/psycopg/) -- Pyton <> Postgres.  Able to adapt PostgreSQL for the python environment   
 	* [SQL Cheet Sheet](http://www.sql-tutorial.net/sql-cheat-sheet.pdf)   
 	* [SQLZoo](http://sqlzoo.net/wiki/Main_Page) - Develop your skills  
-	* [SQLSchool](http://sqlschool.modeanalytics.com/) - Develop your skills  
+	* [SQLSchool](http://sqlschool.modeanalytics.com/) - Develop your skills    
 [MongoDB](http://www.mongodb.org/) - NoSQL database  
 * [PyMongo](http://api.mongodb.org/python/current/tutorial.html) - Python Mongo Driver.  
 	* [MongoDB - cheatsheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - Cheat sheet for MongoDB    
