@@ -1,6 +1,6 @@
 ##Data Science Resources
 
-This repo is intended to provide open source resources to facilitate learning or point practicing/aspiring data scientists in the right direction.  It also exists so that I can keep track of resources that are/were helpful to me and hopefully for you.  
+This repo is intended to provide open source resources to facilitate learning or to point practicing/aspiring data scientists in the right direction.  It also exists so that I can keep track of resources that are/were helpful to me and hopefully for you.  
 
 I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easy to find in the open-source world. For instance, I haven't focused on in-depth machine learning theory since that is well covered.  If you are looking for ML theory I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content), [here](#data-science-courses) and other info is available with many purchasable books. 
 
