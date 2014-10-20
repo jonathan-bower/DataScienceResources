@@ -250,8 +250,7 @@ Aim to keep track of developing trends and new tech that is helpful for the prac
 * [GraphLab](http://graphlab.com/) - graph-based, high performance, distributed computation framework.  They just implemented deep learning onto their platform.
 * [ModeAnalytics](https://modeanalytics.com/) - platform to share analysis/data science.    
 * [Apache Mahout](https://mahout.apache.org/) - Scalable machine learning library.  Not in python.  
-* [Apache Hadoop](http://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing.  
-* 
+* [Apache Hadoop](http://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing.   
 
 ### Data Science Websites/Books
 More resources for community based information or hard copy books.  
@@ -312,6 +311,7 @@ There are some really great resources linked within this section covering all of
 * [LearnDataScience](https://github.com/nborwankar/LearnDataScience) - IpythonNotebooks for Linear Regression, Logistic Regression, Random Forests, K-Means Clustering  
 * [FreeDataScienceBooks](https://github.com/chaconnewu/free-data-science-books/blob/master/free-data-science-books.md) - Free open sourced online data science books.  
 * [Gallery of Ipython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) - Introduction to Python, Data Science, Economics, Comp Sci, Linguistics, and much more.  
+* [Data Science 45 Min Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - The team @ Gnip have a collection of repos to introduce data science topics in roughly 45 minutes per topic.  
 
 ### Other Content
 * [Markable](http://markable.in/editor/) - Let's me visualize my Markdown 
