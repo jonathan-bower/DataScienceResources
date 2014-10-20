@@ -1,12 +1,12 @@
 ##Data Science Resources
 
-This repo is intended to provide free and available resources from the internet to either aid in learning or point practicing/aspiring data scientists in the right direction.  Mostly it exists so that I can keep track of resources that were helpful to me at a given time.  It does have articles referring to how data science is implemented in startups, how to use data science to enable better product and other topical data science information that I am personally interested in.  
+This repo is intended to provide open source resources to facilitate learning or point practicing/aspiring data scientists in the right direction.  Truth be told it exists so that I can keep track of resources that were helpful to me at a given time.  
 
-I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easily to find in the open-source world of the internet. I haven't focused on theory, for that I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content) and [here](#data-science-courses). 
+I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easily to find in the open-source world of the internet. I haven't focused on in-depth theory, for that I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content), [here](#data-science-courses) and many purchasable books. 
 
-Below is the collection of useful open source resources I have collected so far. It is a constant work in progress. If you have anything to add or want to be a contributor - please reach out.      
+This is a constant work in progress. If you have anything to add or would like to be a contributor - please reach out.  If there are any mistakes or typos, be patient with me but please let me know.      
 
-Lastly, I would add that a large portion of data science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - so if one method isn't working re-evaluate and try another.  Good luck and I hope this repo helps!
+Lastly, I would add that a large portion of data science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - so if one method isn't working re-evaluate, re-work the problem, try another approach or reach out to the community for support.  Good luck and I hope this repo is helpful!
 
 #Table Of Contents
 1. [Data Science Getting Started](#data-science-getting-started)   
@@ -54,6 +54,7 @@ Data Science is a multidisciplinary field covering at the very minimum - statist
 ### Starting  
 * [Data Science Pipeline](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png=1000x100) - Detailed overview of data pipeline from MachineLearningMastery.com
 * [Intro to ipython](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks/_edit#entire-books-or-other-large-collections-of-notebooks-on-a-topic) - A curation of Ipython Notebooks great for introductory level to python, programming, comp sci, data science and other topics.    
+* [How do I Become a Data Scientist?](http://www.quora.com/How-do-I-become-a-data-scientist) - Some more great starting points from William Chen.  
 
 ### Data Science Courses:
 * [Coursera](https://www.coursera.org/specialization/jhudatascience/1) - Data Science Specialization at Coursera - many other courses available as well.   
@@ -82,6 +83,7 @@ A collection of workhorse libraries that are elemental for any python data scien
 * [StatsModels](http://statsmodels.sourceforge.net/) - Module that allows users to explore data, estimate statistical models and perform statistical tests.  
 * [PyMC](https://pypi.python.org/pypi/pymc) - Bayesian estimation useful for Markov chain Monte Carlo analysis (among other things)
 * [Probalistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Github Repo all about the namesake.  
+* [The only probability Cheatsheet you'll ever need](https://bayesrule.files.wordpress.com/2014/07/probability_cheatsheet_140718.pdf) - Self explanatory - (thanks William Chen @ http://datastories.quora.com/) for pointing me this sweet cheat sheet out - wish I had that back at college.  
 
 ####Data Acquisition
 Libraries that are very helpful for abstracting away some of the complications of scraping or working with HTTP.   
@@ -152,21 +154,21 @@ Resources on other topics that are very helpful for data scientists and product.
 * [Markov Chain Monte Carlo](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter3_MCMC/IntroMCMC.ipynb) - Opening the black box of MCMC.
 * [Multithreading and Queues](http://pymotw.com/2/Queue/) - How to build multithreading and queues.   
 * [Basics of Multithreading and queses](http://www.troyfawkes.com/learn-python-multithreading-queues-basics/)  - More about multithreading.
+* [Building a Recommender System](http://www.quora.com/How-can-I-start-building-a-recommendation-engine) - Quora answer to this question.  Helpful starting point.
 * [Hash Tables]() - [PLACEHOLDER]
 
 ### Data Visualization
 Collection of the best libraries that I know for easy and powerful data visualizations.
 * [ggplot](http://ggplot.yhathq.com/) - ggplot for python ported by the team at yhat  
 * [matplotlib](http://matplotlib.org/) - awesome plotting library for python.  
-* [d3](http://d3js.org/) - de facto gold standard for polished visualization - in js, steep learning curve.  
+* [d3](http://d3js.org/) - De facto gold standard for polished visualization - in js, steep learning curve but beautiful outcomes.
 * [bokeh](http://bokeh.pydata.org/) - interactive visualization library.  
 * [d3py](https://github.com/mikedewar/d3py) - another library for data viz 
 * [vincent](http://vincent.readthedocs.org/en/latest/)  - help with python for d3
-* [seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - clean statistical data visualization library.  
+* [seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - Clean statistical data visualization library.  
 
 Design Theory -- [PLACE HOLDER]
 The importance of design theory in data visualization and presentations could not be understated though many people pay no heed (probably through a lack of understanding than anything else).  I will try and find some good resources to fill this.
-
 
 ### Ipython Notebook Tutorials
 Collection of ipython notebooks that are helpful as examples to either using tools or to explain certain topics.
@@ -194,9 +196,9 @@ Collection of ipython notebooks that are helpful as examples to either using too
 ### Data Sources
 Collection of sites to access data if you want to build out a project or just use some of the tools for EDA.  
 * [Data.Gov](https://www.data.gov/) - The US government portal to open data.  
-* [California Water Resrouces](http://www.water.ca.gov/data_home.cfm) - California's water resource data.
+* [California Water Resources](http://www.water.ca.gov/data_home.cfm) - California's water resource data.
 * [Data for Cool DS projects](http://101.datascience.community/2014/10/17/data-sources-for-cool-data-science-projects-part-1-guest-post/)
-* [Academic Torrents](http://academictorrents.com/) - Sharing Data is hard, torrents make it easier for acadmics.  
+* [Academic Torrents](http://academictorrents.com/) - Sharing Data is hard, torrents make it easier for academics.  
 * [Data Basin](http://databasin.org/) - Science based mapping and analytics platform.
 * [Open Energy Data Initiative](http://en.openei.org/wiki/Main_Page) - Over 800 data sets covering energy issues.   
 * [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html) - Data for machine learning - lots of labeled data and description of the problem types.   
@@ -204,23 +206,27 @@ Collection of sites to access data if you want to build out a project or just us
 ## Product Resources  
 
 ###Product Metrics  
+Understanding product, user behavior, and product metrics is helpful for data scientists in industry. Being able to help your product manager and team execute on strategies by understanding the problem, metrics and what they understand facilitates a more fruitful relationship.   
 * [Actionable Metrics](http://practicetrumpstheory.com/3-rules-to-actionable-metrics/) - Funnel reports, cohort analysis, actionable metrics.  
 * [Analytics for Product Managers](http://www.mindtheproduct.com/2013/02/everything-a-product-manager-needs-to-know-about-analytics/) - Everything a PM needs to know about analytics - or the minimum amount your PM should know about analytics as a Data Scientist.  
 * [Startups, you are doing data science wrong!](https://gigaom.com/2013/09/28/notice-to-startups-you-are-doing-data-science-wrong/) - High level explanation about how to use data science in a start-up company.  
+* [Product Psychology](http://www.productpsychology.com/category/user-behavior/)  - Understanding user behavior.  
 * [Salesforce](http://www.salesforce.com) - Salesforce for Customer Relationship Management (CRM) software.  
 * [Infer](http://www.infer.com) - Predictive lead scoring for sales & marketing.  
 
 ## Career Resources
 
 ### Data Science Career Path
-* [PLACE HOLDER]
+* [Data Science @ Google](http://www.quora.com/What-is-the-Quant-Data-Science-Career-ladder-at-Google) - Quora answer about Data Science career trajectory @ google.  
 
 ### Types of Data Scientists
-* [Kind's of Data Scientist](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html) - O'reilly's classification of 4 different data scientists.
+Not all Data Scientists are the same and it's critical for organizations to understand what it is they need, and how best to fill those roles or complement the skills of their team.  Finding the organizational structure that enables the data scientists/data engineerings within the organization and generates better results is also crucial.  It should be given thorough consideration.      
+* [Kind's of Data Scientist](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html) - O'Reilly's classification of 4 different data scientists.
 * [Data Science For Startups](http://tomtunguz.com/data-science-types/) - Which of the Five Types of DS does your startup need?  Different classification from O'Reilly.
 * [My own blog post about DS Types][PLACEHOLDER]
-* [Post about types of data team integration][PLACEHOLDER]
-
+* [Building Data Science Teams](http://radar.oreilly.com/2011/09/building-data-science-teams.html) - posted from 2011 about how to build data science teams.
+* [Data Science Team Building - The Power of Collaborative Analytics](http://www.experfy.com/blog/data-science-team-building-power-collaborative-analytics/) - Post post about different team org structures,  difference between DS & BI.
+ 
 ### Data Science Applications/Use Cases
 Data Science has so many different applications and use cases within industry - many are continuously discovered.  These resources provide some potential ideas.
 * [Kaggle Data Science Use Cases](https://www.kaggle.com/wiki/DataScienceUseCases) - Helpful to generate ideas for new uses in different industries
@@ -228,13 +234,17 @@ Data Science has so many different applications and use cases within industry - 
 * [Big Data Analytics News - use Cases](http://bigdataanalyticsnews.com/big-data-use-cases/) - for Big Data but that's almost synonymous with Data Science.
 
 ### New Data Tools
-Aim to keep track of developing trends and new tech that is helpful for the practicing Data Scientist.
+Aim to keep track of developing trends and new tech that is helpful for the practicing Data Scientist.  New might be a misnomer.
 * [BigML](https://bigml.com/) - machine learning for the everyday user, also useful for EDA.   
 * [GraphLab](http://graphlab.com/) - graph-based, high performance, distributed computation framework.  They just implemented deep learning onto their platform.
 * [ModeAnalytics](https://modeanalytics.com/) - platform to share analysis/data science.    
+* [Apache Mahout](https://mahout.apache.org/) - Scalable machine learning library.  Not in python.  
+* [Apache Hadoop](http://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing.  
+* 
 
 ### Data Science Websites/Books
 More resources for community based information or hard copy books.  
+* [Data Science Handbook](https://medium.com/@pericarus/introducing-the-data-science-handbook-b2bfa216bf4b) - Not yet released but should be interesting providing stories from academia and industry about data science - go read the post for a better description!
 * [CrossValidated](http://stats.stackexchange.com/) - a question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.    
 * [StackOverflow](stackoverflow.com) - language-independent collaboratively edited question and answer site for programmers.   
 * [Kaggle](http://www.kaggle.com) - Model building competition and great resources for training and data.  
@@ -253,8 +263,10 @@ A great way to meet other Data Scientist and keep up to date with best practices
 
 ### Data Science Blogs
 The name say's it all.  
+* [Data Stories @ Quroa](http://datastories.quora.com/) - William Chen's (DS@Quora) blog about data science.  
 * [FastML](http://fastml.com/)  
-* [FiveThirtyEight Blog](http://fivethirtyeight.com/) - Nate Silver's blog  
+* [FiveThirtyEight Blog](http://fivethirtyeight.com/) - Nate Silver's blog
+* [](http://www.datasciencehandbook.me/) - Data Science Handbook Project (not quite a blog but it fits here)  
 * [Simply Statistics Blog](http://simplystatistics.org/)  
 * [All The Things Tech](http://nyghtowl.io/)  
 * [Musings in Data Science](http://deblivingdata.net/)  
@@ -296,6 +308,7 @@ There are some really great resources linked within this section covering all of
 * [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - Markdown editor that I use  
 * [iterm2](http://iterm2.com/) - Terminal application for Mac  
 * [Oh My Zsh](http://ohmyz.sh/) - Framework for managing your ZSH config.  Awesome.  
+* [Sublime Text Editor](http://www.sublimetext.com/) - For all your scripting needs.  
 
 ## ABOUT ME
 
