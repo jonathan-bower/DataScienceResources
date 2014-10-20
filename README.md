@@ -325,5 +325,5 @@ I acquired my skills through programming in an on-the-job environment and then t
 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-50532302-5/jonathan-bower/DataScienceResources)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-50532302-5/jonathan-bower/DataScienceResources?pixel)](https://github.com/igrigorik/ga-beacon)
 
