@@ -182,7 +182,7 @@ Other available Visualization Resources.
 
 Design Theory -
 The importance of design theory in data visualization and presentations could not be understated. Through better understanding of design theory and principles, a data scientist can convey more information and meaning in their presentations.
-* [Accelerating Understanding Through Data Visualization][http://www.accenture.com/SiteCollectionDocuments/PDF/Accenture-Accellerating-Understanding-Through-Data-Visualization.pdf] - Accenture White paper on Data Visualization
+* [Accelerating Understanding Through Data Visualization](http://www.accenture.com/SiteCollectionDocuments/PDF/Accenture-Accellerating-Understanding-Through-Data-Visualization.pdf) - Accenture White paper on Data Visualization
 
 ### Ipython Notebook Tutorials
 Collection of ipython notebooks that are helpful as examples to either using tools or to explain certain topics.
