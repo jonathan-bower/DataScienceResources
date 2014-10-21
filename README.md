@@ -180,7 +180,7 @@ Other available Visualization Resources.
 * [blockspring](http://blockspring.com) - Share code and visualizations through a single platform
 * [dot.append](http://enjalot.github.io/dot-append/) - Ian Johnson (enjalot) goes through several live-coding examples using D3
 
-Design Theory -
+### Design Theory
 The importance of design theory in data visualization and presentations could not be understated. Through better understanding of design theory and principles, a data scientist can convey more information and meaning in their presentations.
 * [Accelerating Understanding Through Data Visualization](http://www.accenture.com/SiteCollectionDocuments/PDF/Accenture-Accellerating-Understanding-Through-Data-Visualization.pdf) - Accenture White paper on Data Visualization
 
