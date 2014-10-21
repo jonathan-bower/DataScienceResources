@@ -29,7 +29,8 @@ Lastly, I would add that a large portion of data science is exploratory data ana
   * [New Data Tools](#new-data-tools) 
 
 1. [Product](#product)
-  * [Product Metrics](#product-metrics)     
+  * [Product Metrics](#product-metrics)
+  * [Team Communication & Business Tools](#team-communication-business-tools)     
 
 1. [Career Resources](#career-resources)
   * [Data Science Career Path](#data-science-career-path)    
@@ -156,7 +157,7 @@ Resources on other topics that are very helpful for data scientists and product.
 * [Bloom filters](http://billmill.org/bloomfilter-tutorial/)  - Bloom Filters.   
 * [Reservoir Sampling](http://blog.cloudera.com/blog/2013/04/hadoop-stratified-randosampling-algorithm/) - A primer on Reservoir Sampling.  
 * [Reservoir Sampling Again](http://www.geeksforgeeks.org/reservoir-sampling/)  
-* [Monte Carlo for the Monty Hall Problem](http://slantedwindows.com/monty-hall-meet-mr-monte-carlo/) - Hyon puts on a good explanation to MC for the Monty Hall Problem.  
+* [Monte Carlo for the Monty Hall Problem](http://slantedwindows.com/monty-hall-meet-mr-monte-carlo/) - Hyon Chu puts on a good explanation to MC for the Monty Hall Problem.  
 * [Markov Chain Monte Carlo](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter3_MCMC/IntroMCMC.ipynb) - Opening the black box of MCMC.
 * [Multithreading and Queues](http://pymotw.com/2/Queue/) - How to build multithreading and queues.   
 * [Basics of Multithreading and queses](http://www.troyfawkes.com/learn-python-multithreading-queues-basics/)  - More about multithreading.
@@ -226,6 +227,21 @@ Understanding product, user behavior, and product metrics is helpful for data sc
 * [Startups, you are doing data science wrong!](https://gigaom.com/2013/09/28/notice-to-startups-you-are-doing-data-science-wrong/) - High level explanation about how to use data science in a start-up company.  
 * [Product Psychology](http://www.productpsychology.com/category/user-behavior/)  - Understanding user behavior.  
 
+### Team Communication & Business Tools
+There are some very innovative new companies that are producing very effective tools to minimize and abstract away inefficient processes at companies.  While it isn't strictly data science related, these products could be very help to integrate with your teams to improve overall productivity. 
+* [Aha!](http://www.aha.io/) - Clean product roadmapping software for PMs.   
+* [Slack](https://slack.com) - Amazing team communication tool - abstracting away unnecessary e-mails.  
+* [Harvest](https://www.getharvest.com) - Effortless time tracking for business.    
+* [Trello](https://trello.com) - Helping organize everything - great for project management.
+* [Zapier](https://zapier.com/zapbook/harvest/slack/) - Bringing together Harvest + Slack + Trello and a lot more...  
+* [Thoughtbot Playbook](http://playbook.thoughtbot.com/) -  A detailed account of how thought book runs is software consulting company talking about guiding principles, design sprints, code reviews to sales and operations.  A content packed post.  
+* [IFTTT](http://www.ifttt.com) - 'Putting the internet to work for you'.  Great for small companies to automate social media, marketing or to have your own personal recipes set up.  
+* [Github](https://github.com) - Clearly a great product - 'Build software better, together'.  
+* Web Analytics & Reporting Software:
+	* [Google Analytics](http://www.google.com/analytics/) - In depth real-time analytics.  
+	* [Mixpanel](https://mixpanel.com/) - provides real-time analytics and solid cohort analysis.  
+	* [Clicky](http://clicky.com/) - Pride themselves on ease of use.  
+
 ## Career Resources
 
 ### Data Science Career Path
@@ -250,8 +266,8 @@ More resources for community based information or hard copy books.
 * [CrossValidated](http://stats.stackexchange.com/) - A question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.    
 * [StackOverflow](stackoverflow.com) - Language-independent collaboratively edited question and answer site for programmers.   
 * [Kaggle](http://www.kaggle.com) - Model building competition and great resources for training and data.  
-* [O'Reilly Media](http://shop.oreilly.com/category/get/data-science-kit.do) -They have a lot of content rich books available for Data Science and using the tools for excellent data science.    
-* [Quora](http://www.quora.com/) - Question and Answer site - lots of Data Science Content.  
+* [O'Reilly Media](http://shop.oreilly.com/category/get/data-science-kit.do) - A lot of content rich books available and tutorials on using the tools.    
+* [Quora](http://www.quora.com/) - Question and answer site - lots of data science content and career content.  
 
 ### Data Science Meetups in the Bay Area
 A great way to meet other Data Scientists and keep up to date with best practices.  
