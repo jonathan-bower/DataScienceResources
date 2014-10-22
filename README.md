@@ -252,9 +252,9 @@ There are some very innovative new companies that are producing very effective t
 
 ### Best Practices
 Source control and keeping accurate documentation so that you and your colleagues can follow and reproduce your work is very important.  I will add some best coding practices & data science practices.  
-[Python Code Style](#http://docs.python-guide.org/en/latest/writing/style/) - Allows for better understanding for everyone involved on the project.  
-[Slide Deck for BMPs](#https://python.g-node.org/python-summerschool-2011/_media/materials/best_practices/haenel-best-practices-2011-09-standrews.pdf)  - Slide deck about best practices for coding or the [repo](#https://github.com/esc/best-practices-talk).       
-[Engineering Practices in Data Science](#http://blog.kaggle.com/2012/10/04/engineering-practices-in-data-science/) A blog post about the lack of source control in Data Science.  It's a challenging topic - I believe mode analytics is trying to solve it.  
+[Python Code Style](http://docs.python-guide.org/en/latest/writing/style/) - Allows for better understanding for everyone involved on the project.  
+[Slide Deck for BMPs](https://python.g-node.org/python-summerschool-2011/_media/materials/best_practices/haenel-best-practices-2011-09-standrews.pdf)  - Slide deck about best practices for coding or the [repo](#https://github.com/esc/best-practices-talk).       
+[Engineering Practices in Data Science](http://blog.kaggle.com/2012/10/04/engineering-practices-in-data-science/) A blog post about the lack of source control in Data Science.  It's a challenging topic - I believe mode analytics is trying to solve it.  
 
 ## Career Resources
 
