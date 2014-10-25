@@ -131,7 +131,10 @@ There is a lot of information available online about the theory, mathematical in
 * [Some ML methods classified](http://nyghtowlblog.files.wordpress.com/2014/04/ml_algorithms.png?w=535&h=311) - Classification for some sample ML algorithms by Melanie Warrick.
 * [SciKit-image](http://scikit-image.org/) - Algorithms for image processing.
 * [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.
-* [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes.
+ * [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes.
+* [Logistic Regression Explained](#http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm#hypothesis) - Detailed explanation of how logistic regression works.
+* [Video explaining how Random Forests Algorithm works](#https://www.youtube.com/watch?v=o7iDkcpOr_g)
+* [Awesome Machine Learning](#https://github.com/josephmisiti/awesome-machine-learning) - List of machine learning libraries in all languages and also Kaggle competition source code.
 
 ####Model Selection
 Resources about how to decide on your model.
@@ -143,6 +146,7 @@ Resources to help with understanding model evaluation.
 * [Cross-Validation](http://robjhyndman.com/hyndsight/crossvalidation/) - Critical concept to evaluate the performance of your models.
   * [K-fold & Grid Search in Scikitlearn](http://randomforests.wordpress.com/2014/02/02/basics-of-k-fold-cross-validation-and-gridsearchcv-in-scikit-learn/) - Demo on how to implement kfold cross validation and grid-search using scikit-learn.
   * [Scikit-learn Cross Validation doc](http://scikit-learn.org/stable/modules/cross_validation.html) - Self explanatory title.
+  * [Cross Validation - how to select your final Kaggle Model](http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/) - Importance of cross-validation described specifically in how it effects Kaggle competition scores.
 
 ####Feature Engineering
 A critical element of Data Science to improve your performance but minimally talked about.
@@ -188,6 +192,7 @@ The importance of design theory in data visualization and presentations could no
 ### Ipython Notebook Tutorials
 Collection of ipython notebooks that are helpful as examples to either using tools or to explain certain topics.
 * [Pandas Tutorial](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb) - Basic intro to Pandas in notebook form.
+* [Pandas / Stats Tutorial](https://github.com/fonnesbeck/pytenn2014_tutorial) - Intermediate tutorial by Christopher Fonnesbeck Feb 2014.
 * [Scipy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb) - Basic Scipy Tutorial.
 * [Numpy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb) - Basic Numpy Tutorial.
 * [Multiple Regressions using Statsmodels](http://nbviewer.ipython.org/urls/s3.amazonaws.com/datarobotblog/notebooks/multiple_regression_in_python.ipynb) - Using statsmodels for regression.
@@ -217,6 +222,7 @@ Collection of sites to access data if you want to build out a project or just us
 * [Data Basin](http://databasin.org/) - Science based mapping and analytics platform.
 * [Open Energy Data Initiative](http://en.openei.org/wiki/Main_Page) - Over 800 data sets covering energy issues.
 * [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html) - Data for machine learning - lots of labeled data and description of the problem types.
+* [London Data Store](http://data.london.gov.uk/) - Lots of datasets on London, UK
 
 ### New Data Tools
 Aim to keep track of developing trends and new tech that is helpful for the practicing Data Scientist.  New might be a misnomer.
@@ -249,6 +255,8 @@ There are some very innovative new companies that are producing very effective t
   * [Google Analytics](http://www.google.com/analytics/) - In depth real-time analytics.
   * [Mixpanel](https://mixpanel.com/) - provides real-time analytics and solid cohort analysis.
   * [Clicky](http://clicky.com/) - Pride themselves on ease of use.
+ * [Evernote](#https://evernote.com/) - Great for keeping notes
+
 
 ### Best Practices
 Source control and keeping accurate documentation so that you and your colleagues can follow and reproduce your work is very important.  I will add some best coding practices & data science practices.  
