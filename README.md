@@ -132,9 +132,9 @@ There is a lot of information available online about the theory, mathematical in
 * [SciKit-image](http://scikit-image.org/) - Algorithms for image processing.
 * [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.
  * [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes.
-* [Logistic Regression Explained](#http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm#hypothesis) - Detailed explanation of how logistic regression works.
-* [Video explaining how Random Forests Algorithm works](#https://www.youtube.com/watch?v=o7iDkcpOr_g)
-* [Awesome Machine Learning](#https://github.com/josephmisiti/awesome-machine-learning) - List of machine learning libraries in all languages and also Kaggle competition source code.
+* [Logistic Regression Explained](http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm#hypothesis) - Detailed explanation of how logistic regression works.
+* [Video explaining how Random Forests Algorithm works](https://www.youtube.com/watch?v=o7iDkcpOr_g)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - List of machine learning libraries in all languages and also Kaggle competition source code by Joseph Misiti.
 
 ####Model Selection
 Resources about how to decide on your model.
@@ -255,7 +255,7 @@ There are some very innovative new companies that are producing very effective t
   * [Google Analytics](http://www.google.com/analytics/) - In depth real-time analytics.
   * [Mixpanel](https://mixpanel.com/) - provides real-time analytics and solid cohort analysis.
   * [Clicky](http://clicky.com/) - Pride themselves on ease of use.
- * [Evernote](#https://evernote.com/) - Great for keeping notes
+ * [Evernote](https://evernote.com/) - Great for keeping notes
 
 
 ### Best Practices
