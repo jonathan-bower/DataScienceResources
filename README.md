@@ -56,8 +56,6 @@ Remember - If you’re not prepared to be wrong, you’ll never come up with any
 
 1. [About Me](#about-me)
 
-Section of the data pipeline & resources:
-
 ## Data Science Getting Started
 Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram).  These topics are covered throughout this repo.  I personally find the best way to learn a topic is to get my hands dirty quickly - with that in mind I would probably get to work in python and then implement different tools or theory into my toolkit as I understand each element.  If you haven't used python before I would strongly urge you to use the codecademy course to familiarize yourself with the content and how to program.  Good luck and have fun.
 
