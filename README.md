@@ -1,24 +1,30 @@
 ##Data Science Resources
 
-This repo is intended to provide open source resources to facilitate learning or to point practicing/aspiring data scientists in the right direction.  It also exists so that I can keep track of resources that are/were helpful to me and hopefully for you.
+If you are looking for a one of the largest collections of quality Data Science resources available online, you have found the right repo.  I created this repo so that I could have a location to host resources that are helpful to me, and hopefully helpful to others.  The goal is to curate content with data science topics, high quality resources, relevant blog posts, and other related content.  
 
-I aim to cover the full spectrum of data science and to hopefully include topics of data science that aren't either actively covered or easy to find in the open-source world. For instance, I haven't focused on in-depth machine learning theory since that is well covered.  If you are looking for ML theory I would look to some of the online courses, books or bootcamps. There is a lot of theory information available online, some is linked lower on this page [here](#other-open-source-data-science-content), [here](#data-science-courses) and other info is available with many purchasable books.
+I aim to cover the full spectrum of data science not just the pipeline and to ensure topics of data science that aren't either easy to find or discussed frequently are included.  Topics such as building data science teams, business practices, use-cases, product metrics and data science career paths.  I hope to add a section on data science and entrepreneurship. 
 
-Keep in mind that this is a constant work in progress. If you have anything to add, any feedback, or would like to be a contributor - please reach out.  If there are any mistakes or typos, be patient with me, but please let me know.
+This is a constant work in progress and hope to refactor and update constantly. If you have anything to add, any feedback, or would like to be a contributor - reach out or just make your edits.
 
-Lastly, I would add that a large portion of data science is exploratory data analysis and properly cleaning your data to implement the tools and theory necessary to solve the problem at hand.  For each problem there are many different ways and tools to execute a successful solution - if one method isn't working re-evaluate, re-work the problem, try another approach and/or reach out to the community for support.  Good luck and I hope this repo helpful!
+If you like this and find helpful - please share it around to other people or you can []upvote it on datatau](http://www.datatau.com/item?id=4593), share it on linkedIn, twitter, Facebook, whatever, add it to Quora or just send me a note.   Good luck, hope this helps you find what you are looking for now, or in the future.
+
+Remember - If you’re not prepared to be wrong, you’ll never come up with anything original.
 
 #Table Of Contents
 1. [Data Science Getting Started](#data-science-getting-started)
+  * [Start](#start)
   * [Data Science Courses](#data-science-courses)
 
 1. [Data Pipeline & Tools](#data-pipeline--tools)
   * [Python](#python)
+  * [Data Structures & CS topics](#data-structures--cs-topics)
+  * [Statistics](#statistics)
   * [Stats/Engineering Libraries](#statsengineering-libraries)
   * [Databases/Frameworks](#databasesframeworks)
   * [Data Acquisition](#data-acquisition)
   * [Processing & EDA](#processing--exploratory-data-analysis)
   * [Machine Learning](#machine-learning)
+    * [Machine Learning Theory](#machine-learning-theory)
     * [Model Selection](#model-selection)
     * [Model Evaluation](#model-evaluation)
     * [Feature Engineering](#feature-engineering)
@@ -40,7 +46,6 @@ Lastly, I would add that a large portion of data science is exploratory data ana
   * [Data Science Websites/Books](#data-science-websitesbooks)
   * [Data Science Meetups in the Bay Area](#data-science-meetups-in-the-bay-area)
   * [Data Science Blogs](#data-science-blogs)
-  * [Design Blogs](#design-blogs)
   * [Data Science Conferences](#data-science-conferences)
   * [Data Science Presentations](#data-science-presentations)
   * [Relevant Business Processes](#relevent-business-processes)
@@ -56,7 +61,9 @@ Section of the data pipeline & resources:
 ## Data Science Getting Started
 Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram).  These topics are covered throughout this repo.  I personally find the best way to learn a topic is to get my hands dirty quickly - with that in mind I would probably get to work in python and then implement different tools or theory into my toolkit as I understand each element.  If you haven't used python before I would strongly urge you to use the codecademy course to familiarize yourself with the content and how to program.  Good luck and have fun.
 
-### Starting
+A note about order - I framed the contents in the Pipeline & Tools section order of the data pipeline starting with acquisition, exploratory data analysis, cleaning data, model section & evaluation and then visualization.
+
+### Start
 * [Data Science Pipeline](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png) - Detailed overview of data pipeline from MachineLearningMastery.com
 * [Intro to ipython](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks/_edit#entire-books-or-other-large-collections-of-notebooks-on-a-topic) - A curation of Ipython Notebooks great for introductory level to python, programming, comp sci, data science and other topics.
 * [How do I Become a Data Scientist?](http://www.quora.com/How-do-I-become-a-data-scientist) - Some more great starting points from William Chen.
@@ -79,6 +86,21 @@ Python is my workhorse language specifically as it has many data science and sta
 * [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) - Just as the name says - some introductory level information and exercises.
 * [Git tutorial](https://try.github.io/levels/1/challenges/1) - Git for Version Control.  Simple tutorial for Git from Github.
 
+### Data Structures & CS Topics
+* [Algorithms & Data Structures](http://www.bogotobogo.com/Algorithms/algorithms.php) - Binary trees, hash tables, linked lists, big(O) notation and more.
+* [Algorithm & Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) - Well organized detailed and digestible site full of content covering data structures, algorithms, recursion and assignments!
+* [Big O Notation](http://interactivepython.org/courselib/static/pythonds/AlgorithmAnalysis/BigONotation.html) - Great details and visual of big-O notation.
+* [Visualizations of Data Structures](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Collection of different algorithms (graph problems) and data structures (queues, heaps, hashes) that walks through the visualization to get a better intuitive understanding. 
+
+####Statistics
+Some primers on understanding statistics and other resources to get a deeper understanding.
+* [Statistics Without the Agonizing Pain](https://www.youtube.com/watch?v=5Dnw46eC-0o) - John Rauser's really great video on statistics - funny and engaging with a good message.
+* [Probability Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb) - full book all online through ipython notebooks.
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Github Repo for the book above.
+* [Statistics Cheat Sheet in Ipython Notebook](http://nbviewer.ipython.org/url/trust.sce.ntu.edu.sg/~gguo1/blogs/Statistics/Statistics.ipynb)
+* [The only probability Cheatsheet you'll ever need](https://bayesrule.files.wordpress.com/2014/07/probability_cheatsheet_140718.pdf) - Self explanatory - (thanks William Chen @ http://datastories.quora.com/) for pointing me this great cheat sheet out - wish I had that back at college.
+* [Khan Academy: Statistics](https://www.khanacademy.org/#statistics) - Tons of videos to help learn statistics concepts.
+
 ####Stats/Engineering Libraries
 A collection of workhorse libraries that are elemental for any python data scientist.
 * [Pandas](http://pandas.pydata.org/) Wes McKinney's pandas library for EDA on small to medium sized data sets when you don't want to put the infrastructure for SQL or when it isn't necessary.  It has many other great applications other than just better than SQL on small to medium data sets.
@@ -87,8 +109,7 @@ A collection of workhorse libraries that are elemental for any python data scien
 * [NumPy](http://www.numpy.org/) - Fundamental package for scientific computing with Python.
 * [StatsModels](http://statsmodels.sourceforge.net/) - Module that allows users to explore data, estimate statistical models and perform statistical tests.
 * [PyMC](https://pypi.python.org/pypi/pymc) - Bayesian estimation useful for Markov chain Monte Carlo analysis (among other things).
-* [Probalistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Github Repo all about the namesake.
-* [The only probability Cheatsheet you'll ever need](https://bayesrule.files.wordpress.com/2014/07/probability_cheatsheet_140718.pdf) - Self explanatory - (thanks William Chen @ http://datastories.quora.com/) for pointing me this great cheat sheet out - wish I had that back at college.
+
 
 ####Data Acquisition
 Libraries that are very helpful for abstracting away some of the complications of scraping or working with HTTP.
@@ -123,7 +144,7 @@ A collection of databases & frameworks that are helpful for data management and 
 * [Spark](https://spark.apache.org/) - Lightening fast cluster computing.
 
 ###Machine Learning
-There is a lot of information available online about the theory, mathematical intuition, tuning for this discipline.  I am not trying to cover it in that depth, at least not at this current time.  These are some high level knowledge posts and toolkits.
+There is a lot of information available online about the theory, mathematical intuition, tuning for this discipline.  Here are some tools that are currently available.
 * [SciKit-Learn](http://scikit-learn.org/stable/) - Simple and efficient machine learning tools for data mining and data analysis
 * [NLTK](http://www.nltk.org/) - Natural Language Toolkit to work with human languages data.
 * [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) - Blog post about some of the high level ML methods
@@ -132,9 +153,13 @@ There is a lot of information available online about the theory, mathematical in
 * [SciKit-image](http://scikit-image.org/) - Algorithms for image processing.
 * [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.
  * [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes.
-* [Logistic Regression Explained](http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm#hypothesis) - Detailed explanation of how logistic regression works.
-* [Video explaining how Random Forests Algorithm works](https://www.youtube.com/watch?v=o7iDkcpOr_g)
+
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - List of machine learning libraries in all languages and also Kaggle competition source code by Joseph Misiti.
+
+###Machine Learning Theory
+* [MathematicalMonk ML videos](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - Amazingly concise and digestible videos detailing how different machine learning algorithms function (e.g. logistical, sums, knn, Bayes, etc.)  
+* [Logistic Regression Explained](http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm#hypothesis) - Detailed explanation of how logistic regression works.
+* [Video explaining how Random Forests Algorithm works](https://www.youtube.com/watch?v=o7iDkcpOr_g) - Random Forests Algorithm explained.
 
 ####Model Selection
 Resources about how to decide on your model.
@@ -184,9 +209,11 @@ Other available Visualization Resources.
 * [plot.ly](http://plot.ly) - A web visualization and data processing platform
 * [blockspring](http://blockspring.com) - Share code and visualizations through a single platform
 * [dot.append](http://enjalot.github.io/dot-append/) - Ian Johnson (enjalot) goes through several live-coding examples using D3
+* [Text Visualization Plots](#http://textvis.lnu.se/) - Interactive site with different types of text visualization for different problems.  
 
 ### Design Theory
-The importance of design theory in data visualization and presentations could not be understated. Through better understanding of design theory and principles, a data scientist can convey more information and meaning in their presentations.
+The importance of design theory in data visualization, story telling and presentations could not be understated.  It can take great content and make it confusing or virtually unusable, or it can make content sing and connect with the audience.  Through better understanding of design theory, UI principles, a data scientist (or anyone) can convey more understandable information to the intended audience and give a strong story to their content.
+* [Slidedeck on Data Storytelling & Visualization ](http://higherlogicdownload.s3.amazonaws.com/AMSTAT/62ac7e8c-c7ec-4e98-b58b-dd540bf9e0d9/UploadedImages/dvc2014/Veena%20MendirattaASA%20Storytelling%20with%20Data%20Visualization.pdf) - Overview of different story structures and how to tell a story with data.
 * [Accelerating Understanding Through Data Visualization](http://www.accenture.com/SiteCollectionDocuments/PDF/Accenture-Accellerating-Understanding-Through-Data-Visualization.pdf) - Accenture White paper on Data Visualization
 
 ### Ipython Notebook Tutorials
@@ -212,6 +239,8 @@ Collection of ipython notebooks that are helpful as examples to either using too
 * [MapReduce](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab8/lab8_mapreduce.ipynb) - Classes, inheritance and map-reduce exercises.
 * [Recursion](http://nbviewer.ipython.org/github/gumption/Motivating_and_Visualizing_Recursion_in_Python/blob/master/Motivating_and_Visualizing_Recursion_in_Python.ipynb)  Notebook visualization recursion "The single most powerful idea in algorithms".
 * [Recursion](http://anandology.com/python-practice-book/functional-programming.html) More about Recursion and Functional Programming
+* [Hash Table, Bloom Filter, HyperLogLog](http://nbviewer.ipython.org/github/mlaprise/pydata2013-pds-talk/blob/master/pydata2013.ipynb) - Explaining and demoing some of these concepts.
+* [Hash tables, Binary Trees](*http://nbviewer.ipython.org/github/iit-cs429/main/blob/master/lectures/lec04/Dictionaries.ipy)
 
 ### Data Sources
 Collection of sites to access data if you want to build out a project or just use some of the tools for EDA.
@@ -256,7 +285,6 @@ There are some very innovative new companies that are producing very effective t
   * [Mixpanel](https://mixpanel.com/) - provides real-time analytics and solid cohort analysis.
   * [Clicky](http://clicky.com/) - Pride themselves on ease of use.
  * [Evernote](https://evernote.com/) - Great for keeping notes
-
 
 ### Best Practices
 Source control and keeping accurate documentation so that you and your colleagues can follow and reproduce your work is very important.  I will add some best coding practices & data science practices.  
@@ -315,9 +343,7 @@ The name say's it all.
 * [DataTau](http://datatau.com) - Hackernews for Data Science.
 * [HackerNews](https://news.ycombinator.com/)
 * [Quora](http://quora.com) - Q&A site with lots of information about Data Science.
-
-### Design Blogs
-* [ThreeStoryBlog](http://blog.threestory.com/)
+* [ThreeStoryBlog](http://blog.threestory.com/) - Design blog
 
 ### Data Science Conferences
 * [Strata](http://strataconf.com/) - Conference and a lot of videos from previous conferences - great resource.
@@ -325,6 +351,7 @@ The name say's it all.
 
 ### Data Science Presentations
 * [Strata Collection of Presentations](http://strataconf.com/strata2014/public/schedule/proceedings) - Most of their conference presentations available online.
+* [KDD Keynotes](http://videolectures.net/kdd2014_newyork/) - collection of keynote presentations from the NYC conference
 
 ### Relevant Business Processes
 * [Lean Startup](http://theleanstartup.com/principles) - A method to develop product and businesses.
@@ -344,9 +371,11 @@ There are some really great resources linked within this section covering all of
 * [Data Science 45 Min Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - The team @ Gnip have a collection of repos to introduce data science topics in roughly 45 minutes per topic.
 * [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) - Collection of bloggers, twitter accounts, facebook accounts, MOOC's, datasets, tools.
 * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) - Onur Akpolat's curated list of awesome big data frameworks, resources and papers.
+* [Mining the Social Web](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition) - Matthew Russell's repo related to his book that focuses on working with the Twitter, Facebook, etc.
+* [Harvard CS109 Github Repo](https://github.com/cs109/)
 
 ### Auxiliary Content & Apps
-* [Markable](http://markable.in/editor/) - Let's me visualize my Markdown
+* [Markable](http://markable.in/editor/) - Let's me visualize Markdown
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  - Self explanatory.
 * [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - Markdown editor that I use.
 * [iterm2](http://iterm2.com/) - Terminal application for Mac.
@@ -355,7 +384,7 @@ There are some really great resources linked within this section covering all of
 
 ## ABOUT ME
 
-I acquired my skills through programming in an on-the-job environment and then taking three months off to learn and put into practice my data science skills @ Zipfian Academy.  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment at Zipfian was irreplaceable.  Even if Zipfian resources were open source, without taking the time off work and having the drive to learn all the necessary material would be next to impossible.  I am always interested to hear what other data scientists are doing and using for tools. I am interested in a wide range of different open source &/or private projects - feel free to reach out on Twitter [@sf_oak](http://bit.ly/1FefepA) or [LinkedIn](http://linkd.in/1vp57dk).  Or go check out my start-up venture capitalist recommender ~ finding the long-tail of the VC community at [findyourvc.co](http://findyourvc.co).
+I acquired my skills through programming in an on-the-job environment and then taking three months off to learn and put into practice my data science skills @ Zipfian Academy.  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment at Zipfian was irreplaceable.  Even if Zipfian resources were open source, without taking the time off work and having the drive to learn all the necessary material would be next to impossible.  I am always interested to hear what other data scientists are doing and using for tools. I am interested in a wide range of different open source &/or private projects - feel free to reach out on Twitter [@sf_oak](http://bit.ly/1FefepA), [LinkedIn](http://linkd.in/1vp57dk) or [AngelList](https://angel.co/jonathan-bower).  Or go check out my start-up venture capitalist recommender ~ finding the long-tail of the VC community at [findyourvc.co](http://findyourvc.co).
 
 
 
