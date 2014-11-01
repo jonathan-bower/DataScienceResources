@@ -6,7 +6,7 @@ I aim to cover the full spectrum of data science not just the pipeline and to en
 
 This is a constant work in progress and hope to refactor and update constantly. If you have anything to add, any feedback, or would like to be a contributor - reach out or just make your edits.
 
-If you like this and find helpful - please share it around to other people or you can []upvote it on datatau](http://www.datatau.com/item?id=4593), share it on linkedIn, twitter, Facebook, whatever, add it to Quora or just send me a note.   Good luck, hope this helps you find what you are looking for now, or in the future.
+If you like this and find helpful - please share it around to other people or you can [upvote it on datatau](http://www.datatau.com/item?id=4593), share it on linkedIn, twitter, Facebook, whatever, add it to Quora or just send me a note.   Good luck, hope this helps you find what you are looking for now, or in the future.
 
 Remember - If you’re not prepared to be wrong, you’ll never come up with anything original.
 
