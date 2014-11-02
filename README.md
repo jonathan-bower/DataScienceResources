@@ -57,7 +57,7 @@ Remember - If you’re not prepared to be wrong, you’ll never come up with any
 1. [About Me](#about-me)
 
 ## Data Science Getting Started
-Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram).  These topics are covered throughout this repo.  I personally find the best way to learn a topic is to get my hands dirty quickly - with that in mind I would probably get to work in python and then implement different tools or theory into my toolkit as I understand each element.  If you haven't used python before I would strongly urge you to use the codecademy course to familiarize yourself with the content and how to program.  Good luck and have fun.
+Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) or [Cheat Sheet of a Modern Data Scientist](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/).  These topics are covered throughout this repo.  I personally find the best way to learn a topic is to get my hands dirty quickly - with that in mind I would probably get to work in python and then implement different tools or theory into my toolkit as I understand each element.  If you haven't used python before I would strongly urge you to use the codecademy course to familiarize yourself with the content and how to program.  Good luck and have fun.
 
 A note about order - I framed the contents in the Pipeline & Tools section order of the data pipeline starting with acquisition, exploratory data analysis, cleaning data, model section & evaluation and then visualization.
 
@@ -84,7 +84,7 @@ Python is my workhorse language specifically as it has many data science and sta
 * [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) - Just as the name says - some introductory level information and exercises.
 * [Git tutorial](https://try.github.io/levels/1/challenges/1) - Git for Version Control.  Simple tutorial for Git from Github.
 
-### Data Structures & CS Topics
+#### Data Structures & CS Topics
 * [Algorithms & Data Structures](http://www.bogotobogo.com/Algorithms/algorithms.php) - Binary trees, hash tables, linked lists, big(O) notation and more.
 * [Algorithm & Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) - Well organized detailed and digestible site full of content covering data structures, algorithms, recursion and assignments!
 * [Big O Notation](http://interactivepython.org/courselib/static/pythonds/AlgorithmAnalysis/BigONotation.html) - Great details and visual of big-O notation.
@@ -98,6 +98,7 @@ Some primers on understanding statistics and other resources to get a deeper und
 * [Statistics Cheat Sheet in Ipython Notebook](http://nbviewer.ipython.org/url/trust.sce.ntu.edu.sg/~gguo1/blogs/Statistics/Statistics.ipynb)
 * [The only probability Cheatsheet you'll ever need](https://bayesrule.files.wordpress.com/2014/07/probability_cheatsheet_140718.pdf) - Self explanatory - (thanks William Chen @ http://datastories.quora.com/) for pointing me this great cheat sheet out - wish I had that back at college.
 * [Khan Academy: Statistics](https://www.khanacademy.org/#statistics) - Tons of videos to help learn statistics concepts.
+* [Statistical Distributions in iPython Notebook](http://nbviewer.ipython.org/urls/gist.github.com/mattions/6113437/raw/c5468ea930d6960225d83e112d7f3d00d9c13398/Exploring+different+distribution.ipynb) - Discrete, Bernoulli, Poisson, Binomial, Alpha, Beta etc.  The descriptions are mathematical - will find another resource to explain.
 
 ####Stats/Engineering Libraries
 A collection of workhorse libraries that are elemental for any python data scientist.
@@ -140,6 +141,7 @@ A collection of databases & frameworks that are helpful for data management and 
 * [Redshift](http://aws.amazon.com/redshift/) - AWS petabyte-scale data warehouse solution.
 * [Hadoop - the definitive guide](http://ce.sysu.edu.cn/hope/UploadFiles/Education/2011/10/201110221516245419.pdf) - Hadoop ecosystem.
 * [Spark](https://spark.apache.org/) - Lightening fast cluster computing.
+* [MRjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or AWS.
 
 ###Machine Learning
 There is a lot of information available online about the theory, mathematical intuition, tuning for this discipline.  Here are some tools that are currently available.
@@ -149,15 +151,15 @@ There is a lot of information available online about the theory, mathematical in
 * [VIDEO - How to get started w/mL](https://www.youtube.com/watch?v=uBorfxosVYs) - Melanie Warrick @ PyCon 2014.
 * [Some ML methods classified](http://nyghtowlblog.files.wordpress.com/2014/04/ml_algorithms.png?w=535&h=311) - Classification for some sample ML algorithms by Melanie Warrick.
 * [SciKit-image](http://scikit-image.org/) - Algorithms for image processing.
-* [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.
- * [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes.
-
+* [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - List of machine learning libraries in all languages and also Kaggle competition source code by Joseph Misiti.
+* [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.
 
 ###Machine Learning Theory
 * [MathematicalMonk ML videos](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - Amazingly concise and digestible videos detailing how different machine learning algorithms function (e.g. logistical, sums, knn, Bayes, etc.)  
 * [Logistic Regression Explained](http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm#hypothesis) - Detailed explanation of how logistic regression works.
 * [Video explaining how Random Forests Algorithm works](https://www.youtube.com/watch?v=o7iDkcpOr_g) - Random Forests Algorithm explained.
+* [Machine Learning 101](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/) - Large set of ML resources for beginners.
 
 ####Model Selection
 Resources about how to decide on your model.
@@ -238,7 +240,7 @@ Collection of ipython notebooks that are helpful as examples to either using too
 * [Recursion](http://nbviewer.ipython.org/github/gumption/Motivating_and_Visualizing_Recursion_in_Python/blob/master/Motivating_and_Visualizing_Recursion_in_Python.ipynb)  Notebook visualization recursion "The single most powerful idea in algorithms".
 * [Recursion](http://anandology.com/python-practice-book/functional-programming.html) More about Recursion and Functional Programming
 * [Hash Table, Bloom Filter, HyperLogLog](http://nbviewer.ipython.org/github/mlaprise/pydata2013-pds-talk/blob/master/pydata2013.ipynb) - Explaining and demoing some of these concepts.
-* [Hash tables, Binary Trees](*http://nbviewer.ipython.org/github/iit-cs429/main/blob/master/lectures/lec04/Dictionaries.ipy)
+* [Hash tables, Binary Trees](http://nbviewer.ipython.org/github/iit-cs429/main/blob/master/lectures/lec04/Dictionaries.ipy)
 
 ### Data Sources
 Collection of sites to access data if you want to build out a project or just use some of the tools for EDA.
@@ -267,6 +269,8 @@ Understanding product, user behavior, and product metrics is helpful for data sc
 * [Analytics for Product Managers](http://www.mindtheproduct.com/2013/02/everything-a-product-manager-needs-to-know-about-analytics/) - Everything a PM needs to know about analytics - or the minimum amount your PM should know about analytics as a Data Scientist.
 * [Startups, you are doing data science wrong!](https://gigaom.com/2013/09/28/notice-to-startups-you-are-doing-data-science-wrong/) - High level explanation about how to use data science in a start-up company.
 * [Product Psychology](http://www.productpsychology.com/category/user-behavior/)  - Understanding user behavior.
+* [Understanding Cohort Analysis](http://amarnath14.tumblr.com/post/69790103060/understanding-cohort-analysis) - Blog about cohort analysis, conversions, customer lifetime value, etc.  Great starting point understanding product metrics.
+* 
 
 ### Team Communication & Business Tools
 There are some very innovative new companies that are producing very effective tools to minimize and abstract away inefficient processes at companies.  While it isn't strictly data science related, these products could be very help to integrate with your teams to improve overall productivity.
@@ -316,6 +320,7 @@ More resources for community based information or hard copy books.
 * [Kaggle](http://www.kaggle.com) - Model building competition and great resources for training and data.
 * [O'Reilly Media](http://shop.oreilly.com/category/get/data-science-kit.do) - A lot of content rich books available and tutorials on using the tools.
 * [Quora](http://www.quora.com/) - Question and answer site - lots of data science content and career content.
+* [Data Science @ StackExchange](http://datascience.stackexchange.com/) - Still in beta.
 
 ### Data Science Meetups in the Bay Area
 A great way to meet other Data Scientists and keep up to date with best practices.
