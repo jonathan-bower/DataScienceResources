@@ -159,7 +159,9 @@ There is a lot of information available online about the theory, mathematical in
 * [MathematicalMonk ML videos](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - Amazingly concise and digestible videos detailing how different machine learning algorithms function (e.g. logistical, sums, knn, Bayes, etc.)  
 * [Logistic Regression Explained](http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm#hypothesis) - Detailed explanation of how logistic regression works.
 * [Video explaining how Random Forests Algorithm works](https://www.youtube.com/watch?v=o7iDkcpOr_g) - Random Forests Algorithm explained.
+* [Random Forest Explained](http://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/) - Write up about Random Forest in layman's terms.
 * [Machine Learning 101](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/) - Large set of ML resources for beginners.
+* [Neural Networks Explained - Video](https://www.youtube.com/watch?v=bxe2T-V8XRs) - High level and intuitive explanation how Neural Networks (deep learning) works.
 
 ####Model Selection
 Resources about how to decide on your model.
@@ -261,6 +263,9 @@ Aim to keep track of developing trends and new tech that is helpful for the prac
 * [Apache Mahout](https://mahout.apache.org/) - Scalable machine learning library.  Not in python.
 * [Apache Hadoop](http://hadoop.apache.org/) - Open-source software for reliable, scalable, distributed computing.
 
+### Other Useful Scripts
+* [Spinning up EC2 instances](https://github.com/drewconway/data_science_box) - Drew Conway's scripts to easily spin up AWS EC2 instances. 
+
 ## Product
 
 ###Product Metrics
@@ -270,7 +275,6 @@ Understanding product, user behavior, and product metrics is helpful for data sc
 * [Startups, you are doing data science wrong!](https://gigaom.com/2013/09/28/notice-to-startups-you-are-doing-data-science-wrong/) - High level explanation about how to use data science in a start-up company.
 * [Product Psychology](http://www.productpsychology.com/category/user-behavior/)  - Understanding user behavior.
 * [Understanding Cohort Analysis](http://amarnath14.tumblr.com/post/69790103060/understanding-cohort-analysis) - Blog about cohort analysis, conversions, customer lifetime value, etc.  Great starting point understanding product metrics.
-* 
 
 ### Team Communication & Business Tools
 There are some very innovative new companies that are producing very effective tools to minimize and abstract away inefficient processes at companies.  While it isn't strictly data science related, these products could be very help to integrate with your teams to improve overall productivity.
@@ -376,6 +380,9 @@ There are some really great resources linked within this section covering all of
 * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) - Onur Akpolat's curated list of awesome big data frameworks, resources and papers.
 * [Mining the Social Web](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition) - Matthew Russell's repo related to his book that focuses on working with the Twitter, Facebook, etc.
 * [Harvard CS109 Github Repo](https://github.com/cs109/)
+* [Pete Warden's Data Science Toolkit](https://github.com/petewarden/dstk) - Collection of open data sets and open-source tools for data science in ruby but has python.
+* [Course Materials for Data Science Specialization](https://github.com/DataScienceSpecialization/courses) - Coursera course materials.
+* [iPython Cookbook Materials](https://github.com/ipython-books/cookbook-code) - Excellent resources for high performance scientific computing and data science in python.
 
 ### Auxiliary Content & Apps
 * [Markable](http://markable.in/editor/) - Let's me visualize Markdown
