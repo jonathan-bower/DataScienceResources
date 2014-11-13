@@ -83,12 +83,16 @@ Python is my workhorse language specifically as it has many data science and sta
 * [Python for Data Science Tutorial - Kaggle](https://www.kaggle.com/wiki/GettingStartedWithPythonForDataScience) - Stepping into Data Science with Kaggle and installing some libraries.
 * [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) - Just as the name says - some introductory level information and exercises.
 * [Git tutorial](https://try.github.io/levels/1/challenges/1) - Git for Version Control.  Simple tutorial for Git from Github.
+* [Anyone Can Code](http://dhruvbird.com/61.html) - Languages, tutorials, cheat sheets, algorithms and data structures
 
 #### Data Structures & CS Topics
 * [Algorithms & Data Structures](http://www.bogotobogo.com/Algorithms/algorithms.php) - Binary trees, hash tables, linked lists, big(O) notation and more.
 * [Algorithm & Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) - Well organized detailed and digestible site full of content covering data structures, algorithms, recursion and assignments!
 * [Big O Notation](http://interactivepython.org/courselib/static/pythonds/AlgorithmAnalysis/BigONotation.html) - Great details and visual of big-O notation.
 * [Visualizations of Data Structures](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Collection of different algorithms (graph problems) and data structures (queues, heaps, hashes) that walks through the visualization to get a better intuitive understanding. 
+* [Data Structures CheatSheet & Big Oh Notation](http://bigocheatsheet.com/)
+* [Data Structures CheatSheet -smaller more readable](https://www.clear.rice.edu/comp160/data_cheat.html)
+* [Coursera: Stanford Algorithms Design & Analysis ](https://class.coursera.org/algo-006) - Course on algorithm design & analysis
 
 ####Statistics
 Some primers on understanding statistics and other resources to get a deeper understanding.
@@ -162,6 +166,21 @@ There is a lot of information available online about the theory, mathematical in
 * [Random Forest Explained](http://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/) - Write up about Random Forest in layman's terms.
 * [Machine Learning 101](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/) - Large set of ML resources for beginners.
 * [Neural Networks Explained - Video](https://www.youtube.com/watch?v=bxe2T-V8XRs) - High level and intuitive explanation how Neural Networks (deep learning) works.
+* [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+
+######Time-Series
+[ANN & Computational Intelligence Forecasting Competition](http://www.neural-forecasting-competition.com/index.htm)
+[Neural Networks for Time Series Slidedeck](http://www.cs.cmu.edu/afs/cs/academic/class/15782-f06/slides/timeseries.pdf) 
+
+######Classification
+
+######Regression
+
+######Graph
+
+######Clustering
+
+######
 
 ####Model Selection
 Resources about how to decide on your model.
@@ -355,15 +374,20 @@ The name say's it all.
 ### Data Science Conferences
 * [Strata](http://strataconf.com/) - Conference and a lot of videos from previous conferences - great resource.
 * [GraphLab](http://graphlab.com/events/conference14.html) - Another great conference.
+* [PyData](http://pydata.org)
 
 ### Data Science Presentations
 * [Strata Collection of Presentations](http://strataconf.com/strata2014/public/schedule/proceedings) - Most of their conference presentations available online.
 * [KDD Keynotes](http://videolectures.net/kdd2014_newyork/) - collection of keynote presentations from the NYC conference
+* [All of PyData Conference Talks](https://github.com/DataTau/datascience-anthology-pydata)  
 
 ### Relevant Business Processes
 * [Lean Startup](http://theleanstartup.com/principles) - A method to develop product and businesses.
 * [Agile Development](http://en.wikipedia.org/wiki/Agile_software_development) - group of software development methods to optimize for self-organizational and cross-functional teams.
 * [Scrum](http://en.wikipedia.org/wiki/Scrum_(software_development)) - an iterative and incremental agile software development framework for managing product development.
+
+### Start-Up Resources
+* [How to Start a Start-up](http://startupclass.samaltman.com/) - Series of lectures from successful entrepreneurs (i.e. Y comb, SV angels, etc.) on how to start a start up.
 
 ##Open Source Data Science Resources
 While the name might sound redundant this section represents other sites or repos that have aggregated information covering similar topics.  Tons of great content on these sites - definitely go check them out.
