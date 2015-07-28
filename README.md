@@ -2,13 +2,13 @@
 
 Hi - welcome to the Data Science Resources Repo.  I originally built this repo so that I could have a location to host resources that are helpful to me.  Through building the repo I realized that other people might be interested in the content so I have tried to curate content on data science topics, high quality resources to learn from, and relevant blog posts.  
 
-The intended goal was to cover more than just the technical component  of data science.  Data Science as a discipline is still really new and many business are learning to properly integrate teams and to understand the value proposition that they can provide.
+The intended goal was to cover more than just the technical component  of data science.  Data Science as a discipline is still really fresh and many business are learning to properly integrate teams and to understand the value proposition that data science can provide and how to structure those teams effectively.
 
 As a result I tried to find topics that cover building data science teams, business practices, use-cases, product metrics and data science career paths.  
 
-This is a constant work in progress and hope to refactor and update constantly. If you have anything to add, any feedback, or would like to be a contributor - reach out or just make your edits.
+This is a constant work in progress and I hope to refactor and update in some kind of meaningful time frame.
 
-If you like this and find it helpful - please share it around to other people or you can [upvote it on datatau](http://www.datatau.com/item?id=4593), share it on linkedIn, twitter, Facebook, add it to Quora or just send me a note.   Good luck, I hope this helps you find what you are looking for now, or in the future.
+If you find this resource helpful - please send it around to other people or you can [upvote it on datatau](http://www.datatau.com/item?id=4593), share it on linkedIn, twitter, Facebook, add it to Quora or just send me a note.   Good luck, I hope this helps you find what you are looking for now, or in the future.
 
 Remember - If you’re not prepared to be wrong, you’ll never come up with anything original.
 
