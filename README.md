@@ -152,6 +152,7 @@ A collection of databases & frameworks that are helpful for data management and 
 
 ###Machine Learning
 There is a lot of information available online about the theory, mathematical intuition, tuning for this discipline.  Here are some tools that are currently available.
+* [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Awesome d3 visualization to help understand machine learning.
 * [SciKit-Learn](http://scikit-learn.org/stable/) - Simple and efficient machine learning tools for data mining and data analysis
 * [NLTK](http://www.nltk.org/) - Natural Language Toolkit to work with human languages data.
 * [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) - Blog post about some of the high level ML methods
