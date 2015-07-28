@@ -27,6 +27,7 @@ Remember - If you’re not prepared to be wrong, you’ll never come up with any
   * [Processing & EDA](#processing--exploratory-data-analysis)
   * [Machine Learning](#machine-learning)
     * [Machine Learning Theory](#machine-learning-theory)
+    * [Deep Learning](#deep-learning)
     * [Model Selection](#model-selection)
     * [Model Evaluation](#model-evaluation)
     * [Feature Engineering](#feature-engineering)
@@ -168,7 +169,7 @@ There is a lot of information available online about the theory, mathematical in
 * [Machine Learning 101](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/) - Large set of ML resources for beginners.
 
 
-### Machine Learning - Deep Learning
+###Deep Learning
 Getting a lot of media traction is deep learning - get your feet wet with some of these resources:
 * [HackerNews for Deep Learning](http://news.startup.ml/) - As the name says - a hacker news for Deep Learning
 * [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.
