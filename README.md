@@ -159,7 +159,6 @@ There is a lot of information available online about the theory, mathematical in
 * [SciKit-image](http://scikit-image.org/) - Algorithms for image processing.
 * [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - List of machine learning libraries in all languages and also Kaggle competition source code by Joseph Misiti.
-* [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.
 
 ###Machine Learning Theory
 * [MathematicalMonk ML videos](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - Amazingly concise and digestible videos detailing how different machine learning algorithms function (e.g. logistical, sums, knn, Bayes, etc.)  
@@ -167,8 +166,17 @@ There is a lot of information available online about the theory, mathematical in
 * [Video explaining how Random Forests Algorithm works](https://www.youtube.com/watch?v=o7iDkcpOr_g) - Random Forests Algorithm explained.
 * [Random Forest Explained](http://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/) - Write up about Random Forest in layman's terms.
 * [Machine Learning 101](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/) - Large set of ML resources for beginners.
+
+
+### Machine Learning - Deep Learning
+Getting a lot of media traction is deep learning - get your feet wet with some of these resources:
+* [HackerNews for Deep Learning](http://news.startup.ml/) - As the name says - a hacker news for Deep Learning
+* [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.
 * [Neural Networks Explained - Video](https://www.youtube.com/watch?v=bxe2T-V8XRs) - High level and intuitive explanation how Neural Networks (deep learning) works.
 * [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+* [What is Deep Learning](http://blog.shakirm.com/2015/06/a-statistical-view-of-deep-learning-vi-what-is-deep/?utm_content=bufferae750&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [Free Online Deep Learning Book](http://neuralnetworksanddeeplearning.com/) - in-depth book about NN & deep learning
+* [The Brain vs Deep Learning - Blog Post](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
 
 ######Time-Series
 [ANN & Computational Intelligence Forecasting Competition](http://www.neural-forecasting-competition.com/index.htm)
