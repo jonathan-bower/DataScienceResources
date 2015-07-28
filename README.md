@@ -296,6 +296,8 @@ Understanding product, user behavior, and product metrics is helpful for data sc
 * [Startups, you are doing data science wrong!](https://gigaom.com/2013/09/28/notice-to-startups-you-are-doing-data-science-wrong/) - High level explanation about how to use data science in a start-up company.
 * [Product Psychology](http://www.productpsychology.com/category/user-behavior/)  - Understanding user behavior.
 * [Understanding Cohort Analysis](http://amarnath14.tumblr.com/post/69790103060/understanding-cohort-analysis) - Blog about cohort analysis, conversions, customer lifetime value, etc.  Great starting point understanding product metrics.
+* [Tech Product Management](http://techproductmanagement.com/) - More product focused than Data Science but can provide a good sense to view product management.  
+* [Mind The Product](http://www.mindtheproduct.com/) - Another solid PM blog.
 
 ### Team Communication & Business Tools
 There are some very innovative new companies that are producing very effective tools to minimize and abstract away inefficient processes at companies.  While it isn't strictly data science related, these products could be very help to integrate with your teams to improve overall productivity.
