@@ -180,8 +180,8 @@ Getting a lot of media traction is deep learning - get your feet wet with some o
 * [The Brain vs Deep Learning - Blog Post](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
 
 ######Time-Series
-[ANN & Computational Intelligence Forecasting Competition](http://www.neural-forecasting-competition.com/index.htm)
-[Neural Networks for Time Series Slidedeck](http://www.cs.cmu.edu/afs/cs/academic/class/15782-f06/slides/timeseries.pdf) 
+* [ANN & Computational Intelligence Forecasting Competition](http://www.neural-forecasting-competition.com/index.htm)
+* [Neural Networks for Time Series Slidedeck](http://www.cs.cmu.edu/afs/cs/academic/class/15782-f06/slides/timeseries.pdf) 
 
 ####Model Selection
 Resources about how to decide on your model.
