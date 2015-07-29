@@ -214,6 +214,7 @@ Resources on other topics that are very helpful for data scientists and product.
 * [Markov Chain Monte Carlo](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter3_MCMC/IntroMCMC.ipynb) - Opening the black box of MCMC.
 * [Multithreading and Queues](http://pymotw.com/2/Queue/) - How to build multithreading and queues.
 * [Basics of Multithreading and queses](http://www.troyfawkes.com/learn-python-multithreading-queues-basics/)  - More about multithreading.
+* [Multithreading & Queuing](http://www.shanelynn.ie/using-python-threading-for-multiple-results-queue/) - Another great resource for multithreading & queuing.
 * [Building a Recommender System](http://www.quora.com/How-can-I-start-building-a-recommendation-engine) - Quora answer to this question.  Helpful starting point.
 
 ### Data Visualization
