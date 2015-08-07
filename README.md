@@ -1,10 +1,10 @@
 ##Data Science Resources
 
-Hi - welcome to the Data Science Resources Repo.  I originally built this repo so that I could have a location to host resources that are helpful to me.  Through building the repo I realized that other people might be interested in the content so I have tried to curate content on data science topics, high quality resources to learn from, and relevant blog posts.  
+Hello and welcome to the Data Science Resources repo.  I originally built this repo so that I could have a location to host resources that are helpful to me.  Through building the repo I realized that other people might be also be interested in this content - so I have tried to curate content on data science topics, high quality resources to learn from, and relevant blog posts.  
 
-The intended goal was to cover more than just the technical component  of data science.  Data Science as a discipline is still really fresh and many business are learning to properly integrate teams and to understand the value proposition that data science can provide and how to structure those teams effectively.
+The intended goal was to cover more than just the technical component  of data science.  Data Science as a discipline is still relatively fresh and many business are learning how to properly integrate and structure those teams and also proper understanding the value proposition that data science can provide.
 
-As a result I tried to find topics that cover building data science teams, business practices, use-cases, product metrics and data science career paths.  
+As a result I also tried to find topics that cover building data science teams, business practices, use-cases, product metrics and data science career paths.  
 
 This is a constant work in progress and I hope to refactor and update in some kind of meaningful time frame.
 
@@ -423,9 +423,11 @@ There are some really great resources linked within this section covering all of
 
 ## ABOUT ME
 
-I am currently working at an advanced energy start-up called Stem which works on a significant amount of time-series problems and other data science related challenges.  I acquired my data science skills through programming in an on-the-job environment and then taking three months off to learn to hone my data science skills @ Zipfian Academy (since acquired by Galvanize).  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment at Zipfian was irreplaceable.  Even if all of Zipfian resources were open source, without taking the time off work and having the drive to learn all the necessary material would be next to impossible.  
+I am currently working at an advanced energy storage start-up called Stem which is at the heart of revolutionizing how the grid integrates energy storage from a consumer and utility perspective.  Our team works on a variety of different engineering challenges in particular, a lot of time-series problems.
 
-I am always interested to hear what other data scientists are up to, new resources and tools, and any new project ideas. If you have some project ideas or other resources that would be great to add here - feel free to reach out on Twitter [@sf_oak](http://bit.ly/1FefepA), [LinkedIn](http://linkd.in/1vp57dk) or [AngelList](https://angel.co/jonathan-bower).  
+I am a chemical engineer and economist by formal education and have worked in the energy, water and carbon industries ever since college. I acquired my data science code skills through programming in an on-the-job environment and then taking three months off to learn to hone my data science skills @ Zipfian Academy (since acquired by Galvanize).  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment at Zipfian was irreplaceable.  Even if all of Zipfian resources were open source, without taking the time off work it would have been next to impossible to learn all that content.  Not to mention the great people I met through the program.  
+
+I am always interested to hear what other data scientists are up to, especially those in the clean energy industry. If you have some project ideas or other resources that would be great to add here - feel free to reach out on Twitter [@sf_oak](http://bit.ly/1FefepA), [LinkedIn](http://linkd.in/1vp57dk) or [AngelList](https://angel.co/jonathan-bower).  
 
 
 
