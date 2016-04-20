@@ -86,6 +86,7 @@ Python is my workhorse language specifically as it has many data science and sta
 * [Python for Data Science Tutorial - Kaggle](https://www.kaggle.com/wiki/GettingStartedWithPythonForDataScience) - Stepping into Data Science with Kaggle and installing some libraries.
 * [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) - Just as the name says - some introductory level information and exercises.
 * [Git tutorial](https://try.github.io/levels/1/challenges/1) - Git for Version Control.  Simple tutorial for Git from Github.
+* [Git Tips](http://www.alexkras.com/19-git-tips-for-everyday-use/) - 19 git tips for everyday use.
 * [Anyone Can Code](http://dhruvbird.com/61.html) - Languages, tutorials, cheat sheets, algorithms and data structures
 
 #### Data Structures & CS Topics
