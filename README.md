@@ -75,6 +75,7 @@ A note about order - I framed the contents in the Pipeline & Tools section order
 * [Data Science Bootcamps](http://yet-another-data-blog.blogspot.com/2014/04/data-science-bootcamp-landscape-full.html) - A collection of all bootcamps currently on the market as of April 5, 2014 by Ikechukwu Okonkwo.
 * [Coursera Machine Learning Course](https://www.coursera.org/course/ml) - Andrew Ng's pinnacle Machine Learning course.
 * [Edx](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VEANx9TF-tw) - EDX courses related to data science.
+* [Springboard](https://www.springboard.com/workshops/data-science) - Springboard offers a mentored workshop in the foundations of data science. 
 
 ## Data Pipeline & Tools
 
@@ -351,6 +352,7 @@ More resources for community based information or hard copy books.
 * [O'Reilly Media](http://shop.oreilly.com/category/get/data-science-kit.do) - A lot of content rich books available and tutorials on using the tools.
 * [Quora](http://www.quora.com/) - Question and answer site - lots of data science content and career content.
 * [Data Science @ StackExchange](http://datascience.stackexchange.com/) - Still in beta.
+* [Guide to Data Science Jobs](https://www.springboard.com/resources/guide-to-data-science-jobs) - This free guide to data science jobs explains what it takes to break into a data science career. 
 
 ### Data Science Meetups in the Bay Area
 A great way to meet other Data Scientists and keep up to date with best practices.
