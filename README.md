@@ -113,6 +113,7 @@ A collection of workhorse libraries that are elemental for any python data scien
 * [Pandas](http://pandas.pydata.org/) Wes McKinney's pandas library for EDA on small to medium sized data sets when you don't want to put the infrastructure for SQL or when it isn't necessary.  It has many other great applications other than just better than SQL on small to medium data sets.
   * [Numpy/Pandas/Scipy Cheatsheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf) - self explanatory
 * [SciPy](http://www.scipy.org/) - Open-source software for mathematics, science and engineering.
+* [Pandas Cheatsheet](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf) - Pandas Basics Cheat Sheet
 * [NumPy](http://www.numpy.org/) - Fundamental package for scientific computing with Python.
 * [StatsModels](http://statsmodels.sourceforge.net/) - Module that allows users to explore data, estimate statistical models and perform statistical tests.
 * [PyMC](https://pypi.python.org/pypi/pymc) - Bayesian estimation useful for Markov chain Monte Carlo analysis (among other things).
