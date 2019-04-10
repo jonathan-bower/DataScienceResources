@@ -44,7 +44,7 @@ Remember - If you’re not prepared to be wrong, you’ll never come up with any
 
 1. [Career Resources](#career-resources)
   * [Data Science Career Path](#data-science-career-path)
-  * [Types of Data Scientists](#types-of-data-scientists)
+  * [Types of Data Scientists](#types-of-daFta-scientists)
   * [Data Science Applications/Use Cases](#data-science-applicationsuse-cases)
   * [Data Science Websites/Books](#data-science-websitesbooks)
   * [Data Science Meetups in the Bay Area](#data-science-meetups-in-the-bay-area)
@@ -217,7 +217,6 @@ Resources on other topics that are very helpful for data scientists and product.
 * [Basics of Multithreading and queses](http://www.troyfawkes.com/learn-python-multithreading-queues-basics/)  - More about multithreading.
 * [Multithreading & Queuing](http://www.shanelynn.ie/using-python-threading-for-multiple-results-queue/) - Another great resource for multithreading & queuing.
 * [Building a Recommender System](http://www.quora.com/How-can-I-start-building-a-recommendation-engine) - Quora answer to this question.  Helpful starting point.
-* [Deepnote](https://www.deepnote.com) - Better UI than Jupyter and enables working online without installing anything.
 
 ### Data Visualization
 Collection of the best libraries that I know for easy and powerful data visualizations.
@@ -244,6 +243,7 @@ The importance of design theory in data visualization, story telling and present
 
 ### Ipython Notebook Tutorials
 Collection of ipython notebooks that are helpful as examples to either using tools or to explain certain topics.
+* [Deepnote](https://www.deepnote.com) - Backwards-compatible Jupyter alternative with better UI & collaboration features & working online.
 * [Pandas Tutorial](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb) - Basic intro to Pandas in notebook form.
 * [Pandas / Stats Tutorial](https://github.com/fonnesbeck/pytenn2014_tutorial) - Intermediate tutorial by Christopher Fonnesbeck Feb 2014.
 * [Scipy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb) - Basic Scipy Tutorial.
