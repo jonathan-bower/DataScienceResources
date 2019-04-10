@@ -217,6 +217,7 @@ Resources on other topics that are very helpful for data scientists and product.
 * [Basics of Multithreading and queses](http://www.troyfawkes.com/learn-python-multithreading-queues-basics/)  - More about multithreading.
 * [Multithreading & Queuing](http://www.shanelynn.ie/using-python-threading-for-multiple-results-queue/) - Another great resource for multithreading & queuing.
 * [Building a Recommender System](http://www.quora.com/How-can-I-start-building-a-recommendation-engine) - Quora answer to this question.  Helpful starting point.
+* [Deepnote](https://www.deepnote.com) - Better UI than Jupyter and enables working online without installing anything.
 
 ### Data Visualization
 Collection of the best libraries that I know for easy and powerful data visualizations.
