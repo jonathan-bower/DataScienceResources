@@ -9,7 +9,7 @@ The intended goal was to cover more than just the technical component of data sc
   * [Start](#start)
   * [Data Science Courses](#data-science-courses)
 
-1. [Data Pipeline & Tools](#data-pipeline--tools)
+2. [Data Pipeline & Tools](#data-pipeline--tools)
   * [Python](#python)
   * [Data Structures & CS topics](#data-structures--cs-topics)
   * [Statistics](#statistics)
@@ -29,12 +29,12 @@ The intended goal was to cover more than just the technical component of data sc
   * [Data Sources](#data-sources)
   * [New Data Tools](#new-data-tools)
 
-1. [Product](#product)
+3. [Product](#product)
   * [Product Metrics](#product-metrics)
   * [Team Communication & Business Tools](#team-communication--business-tools)
   * [Best Practices](#best-practices)
 
-1. [Career Resources](#career-resources)
+4. [Career Resources](#career-resources)
   * [Data Science Career Path](#data-science-career-path)
   * [Types of Data Scientists](#types-of-data-scientists)
   * [Data Science Applications/Use Cases](#data-science-applicationsuse-cases)
@@ -45,11 +45,10 @@ The intended goal was to cover more than just the technical component of data sc
   * [Data Science Presentations](#data-science-presentations)
   * [Relevant Business Processes](#relevent-business-processes)
 
-1. [Open Source Data Science Resources](#open-source-data-science-resources)
+5. [Open Source Data Science Resources](#open-source-data-science-resources)
   * [Additional Open Source Content](#other-open-source-data-science-content)
   * [Auxiliary Content & Apps](#auxiliary-content--apps)
 
-1. [About Me](#about-me)
 
 ## Data Science Getting Started
 Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) or [Cheat Sheet of a Modern Data Scientist](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/).  These topics are covered throughout this repo.  I personally find the best way to learn a topic is to get my hands dirty quickly - with that in mind I would get to work in python and then implement different tools or theory into my toolkit as they are understood.  If you haven't used python before I would strongly urge you to use the codecademy course to familiarize yourself with the content and how to program.  Good luck and have fun.
