@@ -5,11 +5,11 @@ Hello and welcome to the Data Science Resources repo.  I originally built this r
 The intended goal was to cover more than just the technical component of data science.  I have tried to find topics that cover building data science teams, business practices, use-cases, product metrics and data science career paths.  Hope this is helpful
 
 # Table Of Contents
-1. [Data Science Getting Started](#data-science-getting-started)
+### 1. [Data Science Getting Started](#data-science-getting-started)
   * [Start](#start)
   * [Data Science Courses](#data-science-courses)
 
-2. [Data Pipeline & Tools](#data-pipeline--tools)
+### 2. [Data Pipeline & Tools](#data-pipeline--tools)
   * [Python](#python)
   * [Data Structures & CS topics](#data-structures--cs-topics)
   * [Statistics](#statistics)
@@ -29,12 +29,12 @@ The intended goal was to cover more than just the technical component of data sc
   * [Data Sources](#data-sources)
   * [New Data Tools](#new-data-tools)
 
-3. [Product](#product)
+### 3. [Product](#product)
   * [Product Metrics](#product-metrics)
   * [Team Communication & Business Tools](#team-communication--business-tools)
   * [Best Practices](#best-practices)
 
-4. [Career Resources](#career-resources)
+### 4. [Career Resources](#career-resources)
   * [Data Science Career Path](#data-science-career-path)
   * [Types of Data Scientists](#types-of-data-scientists)
   * [Data Science Applications/Use Cases](#data-science-applicationsuse-cases)
@@ -45,7 +45,7 @@ The intended goal was to cover more than just the technical component of data sc
   * [Data Science Presentations](#data-science-presentations)
   * [Relevant Business Processes](#relevent-business-processes)
 
-5. [Open Source Data Science Resources](#open-source-data-science-resources)
+### 5. [Open Source Data Science Resources](#open-source-data-science-resources)
   * [Additional Open Source Content](#other-open-source-data-science-content)
   * [Auxiliary Content & Apps](#auxiliary-content--apps)
 
