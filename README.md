@@ -269,6 +269,7 @@ Collection of sites to access data if you want to build out a project or just us
 * [Open Energy Data Initiative](http://en.openei.org/wiki/Main_Page) - Over 800 data sets covering energy issues.
 * [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html) - Data for machine learning - lots of labeled data and description of the problem types.
 * [London Data Store](http://data.london.gov.uk/) - Lots of datasets on London, UK
+* [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/) - The SNAP library is being actively developed since 2004 and contains various large social and information networks.
 
 ### New Data Tools
 Aim to keep track of developing trends and new tech that is helpful for the practicing Data Scientist.  New might be a misnomer.
