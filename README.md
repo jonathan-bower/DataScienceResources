@@ -319,6 +319,7 @@ Source control and keeping accurate documentation so that you and your colleague
 
 ### Data Science Career Path
 * [Data Science @ Google](http://www.quora.com/What-is-the-Quant-Data-Science-Career-ladder-at-Google) - Quora answer about Data Science career trajectory @ google.
+* [Career Learning Path by Coursera](https://www.coursera.org/learning-paths/data-science/)) - Career Learning path set by Coursera, comprising of courses and specializations.
 
 ### Types of Data Scientists
 Not all Data Scientists are the same and it's critical for organizations to understand what it is they need, and how best to fill those roles and/or complement the skills of their team.  Finding the organizational structure that enables the data scientists/data engineers within the organization and generates better results is also crucial.  It should be given thorough consideration.
