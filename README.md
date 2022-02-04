@@ -36,7 +36,7 @@ The intended goal was to cover more than just the technical component of data sc
 
 ### 4. [Career Resources](#career-resources)
   * [Data Science Career Path](#data-science-career-path)
-  * [Types of Data Scientists](#types-of-data-scientists)
+  * [Types of Data Scientists](#types-of-daFta-scientists)
   * [Data Science Applications/Use Cases](#data-science-applicationsuse-cases)
   * [Data Science Websites/Books](#data-science-websitesbooks)
   * [Data Science Meetups in the Bay Area](#data-science-meetups-in-the-bay-area)
@@ -234,6 +234,7 @@ The importance of design theory in data visualization, story telling and present
 
 ### Ipython Notebook Tutorials
 Collection of ipython notebooks that are helpful as examples to either using tools or to explain certain topics.
+* [Deepnote](https://www.deepnote.com) - Backwards-compatible Jupyter alternative with better UI & collaboration features & working online.
 * [Pandas Tutorial](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb) - Basic intro to Pandas in notebook form.
 * [Pandas / Stats Tutorial](https://github.com/fonnesbeck/pytenn2014_tutorial) - Intermediate tutorial by Christopher Fonnesbeck Feb 2014.
 * [Scipy Tutorial](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb) - Basic Scipy Tutorial.
