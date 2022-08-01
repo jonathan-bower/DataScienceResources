@@ -79,6 +79,7 @@ Python is my workhorse language specifically as it has many data science and sta
 * [Git tutorial](https://try.github.io/levels/1/challenges/1) - Git for Version Control.  Simple tutorial for Git from Github.
 * [Git Tips](http://www.alexkras.com/19-git-tips-for-everyday-use/) - 19 git tips for everyday use.
 * [Anyone Can Code](http://dhruvbird.com/61.html) - Languages, tutorials, cheat sheets, algorithms and data structures
+*  [Python @ ScalerTopics](https://www.scaler.com/topics/python/) - Learn Python easily from beginner to advanced level.
 
 #### Data Structures & CS Topics
 * [Algorithms & Data Structures](http://www.bogotobogo.com/Algorithms/algorithms.php) - Binary trees, hash tables, linked lists, big(O) notation and more.
