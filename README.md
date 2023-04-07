@@ -343,6 +343,7 @@ More resources for community based information or hard copy books.
 * [O'Reilly Media](http://shop.oreilly.com/category/get/data-science-kit.do) - A lot of content rich books available and tutorials on using the tools.
 * [Quora](http://www.quora.com/) - Question and answer site - lots of data science content and career content.
 * [Data Science @ StackExchange](http://datascience.stackexchange.com/) - Still in beta.
+* [Manning Publications](https://www.manning.com/catalog#section-68) - Data Science book & liveProjects.
 
 ### Data Science Meetups in the Bay Area
 A great way to meet other Data Scientists and keep up to date with best practices.
