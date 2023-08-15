@@ -344,6 +344,7 @@ More resources for community based information or hard copy books.
 * [Quora](http://www.quora.com/) - Question and answer site - lots of data science content and career content.
 * [Data Science @ StackExchange](http://datascience.stackexchange.com/) - Still in beta.
 * [Manning Publications](https://www.manning.com/catalog#section-68) - Data Science book & liveProjects.
+* [Acing the Data Science Interview](https://www.manning.com/books/acing-the-data-science-interview) - Book that helps you find your perfect role, wow your interviewers, and nail common coding tests.
 
 ### Data Science Meetups in the Bay Area
 A great way to meet other Data Scientists and keep up to date with best practices.
