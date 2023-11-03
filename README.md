@@ -59,6 +59,7 @@ A note about order - I framed the contents in the Pipeline & Tools section order
 * [Data Science Pipeline](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png) - Detailed overview of data pipeline from MachineLearningMastery.com
 * [Intro to ipython](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks/_edit#entire-books-or-other-large-collections-of-notebooks-on-a-topic) - A curation of Ipython Notebooks great for introductory level to python, programming, comp sci, data science and other topics.
 * [How do I Become a Data Scientist?](http://www.quora.com/How-do-I-become-a-data-scientist) - Some more great starting points from William Chen.
+* [Solve Any Data Analysis Problem: Eight projects that show you how](https://www.manning.com/books/solve-any-data-analysis-problem) - A book that guides you through eight common scenarios you'll encounter as a data scientist or analyst.
 
 ### Data Science Courses:
 * [Coursera](https://www.coursera.org/specialization/jhudatascience/1) - Data Science Specialization at Coursera - many other courses available as well.
