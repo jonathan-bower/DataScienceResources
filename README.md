@@ -59,6 +59,7 @@ A note about order - I framed the contents in the Pipeline & Tools section order
 * [Data Science Pipeline](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png) - Detailed overview of data pipeline from MachineLearningMastery.com
 * [Intro to ipython](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks/_edit#entire-books-or-other-large-collections-of-notebooks-on-a-topic) - A curation of Ipython Notebooks great for introductory level to python, programming, comp sci, data science and other topics.
 * [How do I Become a Data Scientist?](http://www.quora.com/How-do-I-become-a-data-scientist) - Some more great starting points from William Chen.
+* [Solve Any Data Analysis Problem: Eight projects that show you how](https://www.manning.com/books/solve-any-data-analysis-problem) - A book that guides you through eight common scenarios you'll encounter as a data scientist or analyst.
 
 ### Data Science Courses:
 * [Coursera](https://www.coursera.org/specialization/jhudatascience/1) - Data Science Specialization at Coursera - many other courses available as well.
@@ -171,6 +172,7 @@ Getting a lot of media traction is deep learning - get your feet wet with some o
 * [What is Deep Learning](http://blog.shakirm.com/2015/06/a-statistical-view-of-deep-learning-vi-what-is-deep/?utm_content=bufferae750&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [Free Online Deep Learning Book](http://neuralnetworksanddeeplearning.com/) - in-depth book about NN & deep learning
 * [The Brain vs Deep Learning - Blog Post](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
+* [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth) - Book about practical implementations of dozens of ML algorithms
 
 ###### Time-Series
 * [ANN & Computational Intelligence Forecasting Competition](http://www.neural-forecasting-competition.com/index.htm)
@@ -342,6 +344,8 @@ More resources for community based information or hard copy books.
 * [O'Reilly Media](http://shop.oreilly.com/category/get/data-science-kit.do) - A lot of content rich books available and tutorials on using the tools.
 * [Quora](http://www.quora.com/) - Question and answer site - lots of data science content and career content.
 * [Data Science @ StackExchange](http://datascience.stackexchange.com/) - Still in beta.
+* [Manning Publications](https://www.manning.com/catalog#section-68) - Data Science book & liveProjects.
+* [Acing the Data Science Interview](https://www.manning.com/books/acing-the-data-science-interview) - Book that helps you find your perfect role, wow your interviewers, and nail common coding tests.
 
 ### Data Science Meetups in the Bay Area
 A great way to meet other Data Scientists and keep up to date with best practices.
