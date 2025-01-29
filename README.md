@@ -368,7 +368,6 @@ A great way to meet other Data Scientists and keep up to date with best practice
 * [HackerNews](https://news.ycombinator.com/)
 * [Quora](http://quora.com) - Q&A site with lots of information about Data Science.
 * [ThreeStoryBlog](http://blog.threestory.com/) - Design blog
-* [Data Science Blog](https://www.appliedaicourse.com/blog/data-science/) - Applied AI blog
 
 ### Data Science Conferences
 * [Strata](http://strataconf.com/) - Conference and a lot of videos from previous conferences - great resource.
