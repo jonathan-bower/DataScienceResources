@@ -66,6 +66,7 @@ A note about order - I framed the contents in the Pipeline & Tools section order
 * [Data Science Bootcamps](http://yet-another-data-blog.blogspot.com/2014/04/data-science-bootcamp-landscape-full.html) - A collection of all bootcamps currently on the market as of April 5, 2014 by Ikechukwu Okonkwo.
 * [Coursera Machine Learning Course](https://www.coursera.org/course/ml) - Andrew Ng's pinnacle Machine Learning course.
 * [Edx](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VEANx9TF-tw) - EDX courses related to data science.
+* [Scaler Academy](https://www.scaler.com/data-science-course/?utm_source=organic_blog&utm_medium=in_content_top&utm_content=data-science-roadmap) - Scaler courses related to data science and machine learning.
 
 ## Data Pipeline & Tools
 
@@ -367,6 +368,7 @@ A great way to meet other Data Scientists and keep up to date with best practice
 * [HackerNews](https://news.ycombinator.com/)
 * [Quora](http://quora.com) - Q&A site with lots of information about Data Science.
 * [ThreeStoryBlog](http://blog.threestory.com/) - Design blog
+* [Data Science Blog](https://www.appliedaicourse.com/blog/data-science/) - Applied AI blog
 
 ### Data Science Conferences
 * [Strata](http://strataconf.com/) - Conference and a lot of videos from previous conferences - great resource.
