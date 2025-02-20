@@ -1,4 +1,5 @@
 ## Data Science Resources
+# Hitanshu 
 
 Hello and welcome to the Data Science Resources repo.  I originally built this repo so that I could have a location to host resources that are helpful to me.  Through building the repo I realized that other people might be also be interested. I have tried to curate content on data science topics, high quality resources to learn from, and relevant blog posts.
 
