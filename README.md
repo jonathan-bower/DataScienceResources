@@ -66,7 +66,7 @@ A note about order - I framed the contents in the Pipeline & Tools section order
 * [Data Science Bootcamps](http://yet-another-data-blog.blogspot.com/2014/04/data-science-bootcamp-landscape-full.html) - A collection of all bootcamps currently on the market as of April 5, 2014 by Ikechukwu Okonkwo.
 * [Coursera Machine Learning Course](https://www.coursera.org/course/ml) - Andrew Ng's pinnacle Machine Learning course.
 * [Edx](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VEANx9TF-tw) - EDX courses related to data science.
-
+* [MIT Data Science Course](https://professional-education-gl.mit.edu/mit-online-data-science-program) - Applied AI and Data Science program from MIT Professional Education covering statistics, machine learning, deep learning, generative AI, and practical data science applications.
 ## Data Pipeline & Tools
 
 ### Python
