@@ -406,7 +406,7 @@ There are some really great resources linked within this section covering all of
 * [iPython Cookbook Materials](https://github.com/ipython-books/cookbook-code) - Excellent resources for high performance scientific computing and data science in python.
 
 ### Auxiliary Content & Apps
-* [Markable](http://markable.in/editor/) - Let's me visualize Markdown
+* [Coddy Markdown Editor](https://coddy.tech/tools/markdown-editor) - Free online Markdown editor with a live preview.
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  - Self explanatory.
 * [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/) - Markdown editor that I use.
 * [iterm2](http://iterm2.com/) - Terminal application for Mac.
